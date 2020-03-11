@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.exe
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.dll
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.dll
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.pdb
