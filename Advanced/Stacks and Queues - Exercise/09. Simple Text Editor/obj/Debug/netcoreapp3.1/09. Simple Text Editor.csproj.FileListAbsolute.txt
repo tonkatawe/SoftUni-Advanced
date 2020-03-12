@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.exe
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.dll
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.dll
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.pdb
