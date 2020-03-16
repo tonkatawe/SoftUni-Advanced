@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.exe
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.dll
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp3.1\10. Crossroads.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.dll
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp3.1\10. Crossroads.pdb

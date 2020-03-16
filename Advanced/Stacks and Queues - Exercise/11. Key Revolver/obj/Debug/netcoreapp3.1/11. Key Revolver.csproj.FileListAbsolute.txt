@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.exe
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.dll
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.dll
+C:\GitHubRepo\C# Advanced\Advanced\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.pdb
