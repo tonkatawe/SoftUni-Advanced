@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.exe
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.pdb

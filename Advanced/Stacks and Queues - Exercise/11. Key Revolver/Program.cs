@@ -6,7 +6,6 @@ namespace _11._Key_Revolver
 {
     class Program
     {
-        //60/100 I asked in softuni.bg forum to support me
         static void Main(string[] args)
         {
             var bulletPrice = int.Parse(Console.ReadLine());
@@ -30,7 +29,7 @@ namespace _11._Key_Revolver
                         Console.WriteLine("Bang!");
                         locksQueue.Dequeue();  //remove the lock
                         bulletStack.Pop(); //remove the bullet
-                        if (barrelCount == sizeGunBarrel && bulletStack.Any()) 
+                        if (barrelCount == sizeGunBarrel && bulletStack.Any())
                         {
                             Console.WriteLine("Reloading!");
                             barrelCount = 0;

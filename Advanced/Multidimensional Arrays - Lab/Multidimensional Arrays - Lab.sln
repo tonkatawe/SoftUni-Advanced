@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Sum Matrix Elements", "1. Sum Matrix Elements\1. Sum Matrix Elements.csproj", "{776A85A0-1532-46B8-8EC3-4A55BBE3A574}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Sum Matrix Elements", "1. Sum Matrix Elements\1. Sum Matrix Elements.csproj", "{776A85A0-1532-46B8-8EC3-4A55BBE3A574}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Sum Matrix Columns", "2. Sum Matrix Columns\2. Sum Matrix Columns.csproj", "{3851DA16-1C1B-4693-ACB8-61F4F1E7697C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Sum Matrix Columns", "2. Sum Matrix Columns\2. Sum Matrix Columns.csproj", "{3851DA16-1C1B-4693-ACB8-61F4F1E7697C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Primary Diagonal", "3. Primary Diagonal\3. Primary Diagonal.csproj", "{D57D7683-5D84-472C-AA20-DEA6A467DFE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Primary Diagonal", "3. Primary Diagonal\3. Primary Diagonal.csproj", "{D57D7683-5D84-472C-AA20-DEA6A467DFE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Symbol in Matrix", "4. Symbol in Matrix\4. Symbol in Matrix.csproj", "{6429F626-1563-47C6-9B81-D0519344B39F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Symbol in Matrix", "4. Symbol in Matrix\4. Symbol in Matrix.csproj", "{6429F626-1563-47C6-9B81-D0519344B39F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Square With Maximum Sum", "5. Square With Maximum Sum\5. Square With Maximum Sum.csproj", "{E99080DB-2520-464C-B584-0415FD46B7CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Jagged-Array Modification", "6. Jagged-Array Modification\6. Jagged-Array Modification.csproj", "{03A5740B-1233-4930-B07D-08A36399BDCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Pascal Triangle", "7. Pascal Triangle\7. Pascal Triangle.csproj", "{0CE24857-F0D5-46DD-BEDC-D3E92B4705C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{6429F626-1563-47C6-9B81-D0519344B39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6429F626-1563-47C6-9B81-D0519344B39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6429F626-1563-47C6-9B81-D0519344B39F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E99080DB-2520-464C-B584-0415FD46B7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99080DB-2520-464C-B584-0415FD46B7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99080DB-2520-464C-B584-0415FD46B7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99080DB-2520-464C-B584-0415FD46B7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A5740B-1233-4930-B07D-08A36399BDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A5740B-1233-4930-B07D-08A36399BDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A5740B-1233-4930-B07D-08A36399BDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A5740B-1233-4930-B07D-08A36399BDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE24857-F0D5-46DD-BEDC-D3E92B4705C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE24857-F0D5-46DD-BEDC-D3E92B4705C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE24857-F0D5-46DD-BEDC-D3E92B4705C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE24857-F0D5-46DD-BEDC-D3E92B4705C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
