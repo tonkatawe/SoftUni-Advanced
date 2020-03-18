@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Diagonal Difference", "1. Diagonal Difference\1. Diagonal Difference.csproj", "{AC323546-FCDA-4B95-A79E-5258E6CBA4D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Diagonal Difference", "1. Diagonal Difference\1. Diagonal Difference.csproj", "{AC323546-FCDA-4B95-A79E-5258E6CBA4D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Squares in Matrix", "2. Squares in Matrix\2. Squares in Matrix.csproj", "{DCE064D7-7C0F-4A4B-8471-E6C8E6B75719}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Squares in Matrix", "2. Squares in Matrix\2. Squares in Matrix.csproj", "{DCE064D7-7C0F-4A4B-8471-E6C8E6B75719}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Maximal Sum", "3. Maximal Sum\3. Maximal Sum.csproj", "{721EDCBE-C642-43B7-9BA8-D494129B2B01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Maximal Sum", "3. Maximal Sum\3. Maximal Sum.csproj", "{721EDCBE-C642-43B7-9BA8-D494129B2B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Matrix Shuffling", "4. Matrix Shuffling\4. Matrix Shuffling.csproj", "{D77FF350-F537-4430-A458-04DF76B8B2DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Snake Moves", "5. Snake Moves\5. Snake Moves.csproj", "{9CA5C21C-CB41-4469-8DED-6519E712C312}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{721EDCBE-C642-43B7-9BA8-D494129B2B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{721EDCBE-C642-43B7-9BA8-D494129B2B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{721EDCBE-C642-43B7-9BA8-D494129B2B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77FF350-F537-4430-A458-04DF76B8B2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77FF350-F537-4430-A458-04DF76B8B2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77FF350-F537-4430-A458-04DF76B8B2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77FF350-F537-4430-A458-04DF76B8B2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CA5C21C-CB41-4469-8DED-6519E712C312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA5C21C-CB41-4469-8DED-6519E712C312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA5C21C-CB41-4469-8DED-6519E712C312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA5C21C-CB41-4469-8DED-6519E712C312}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
