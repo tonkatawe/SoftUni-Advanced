@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.exe
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.pdb
