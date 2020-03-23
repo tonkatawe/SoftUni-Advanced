@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.exe
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.csprojAssemblyReference.cache

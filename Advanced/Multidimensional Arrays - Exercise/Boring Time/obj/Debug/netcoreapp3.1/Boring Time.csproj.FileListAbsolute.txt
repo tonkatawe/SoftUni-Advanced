@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\Boring Time\bin\Debug\netcoreapp3.1\Boring Time.exe
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\Boring Time\bin\Debug\netcoreapp3.1\Boring Time.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\Boring Time\bin\Debug\netcoreapp3.1\Boring Time.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\Boring Time\bin\Debug\netcoreapp3.1\Boring Time.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\Boring Time\bin\Debug\netcoreapp3.1\Boring Time.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\Boring Time\bin\Debug\netcoreapp3.1\Boring Time.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\Boring Time\obj\Debug\netcoreapp3.1\Boring Time.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\Boring Time\obj\Debug\netcoreapp3.1\Boring Time.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\Boring Time\obj\Debug\netcoreapp3.1\Boring Time.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\Boring Time\obj\Debug\netcoreapp3.1\Boring Time.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\Boring Time\obj\Debug\netcoreapp3.1\Boring Time.pdb

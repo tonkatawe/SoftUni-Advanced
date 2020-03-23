@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.exe
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.pdb

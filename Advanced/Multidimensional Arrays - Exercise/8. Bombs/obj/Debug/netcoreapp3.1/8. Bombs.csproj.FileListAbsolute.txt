@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.exe
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.pdb

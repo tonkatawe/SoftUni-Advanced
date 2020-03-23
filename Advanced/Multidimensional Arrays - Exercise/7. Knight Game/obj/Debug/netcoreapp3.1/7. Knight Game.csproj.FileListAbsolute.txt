@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.exe
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.pdb

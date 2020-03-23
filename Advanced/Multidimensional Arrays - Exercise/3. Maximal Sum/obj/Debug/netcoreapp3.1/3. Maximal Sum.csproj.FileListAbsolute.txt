@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.exe
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.pdb
