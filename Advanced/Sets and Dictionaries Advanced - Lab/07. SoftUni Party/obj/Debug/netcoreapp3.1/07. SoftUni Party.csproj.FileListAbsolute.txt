@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.exe
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.pdb

@@ -1,0 +1,10 @@
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.exe
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.pdb
