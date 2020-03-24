@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.exe
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.dll
+C:\GitHubRepo\C# Advanced\Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.pdb

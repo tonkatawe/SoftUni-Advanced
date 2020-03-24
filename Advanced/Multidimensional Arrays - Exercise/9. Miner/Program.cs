@@ -14,16 +14,13 @@ namespace _9._Miner
             var size = int.Parse(Console.ReadLine());
             var matrix = new string[size, size];
             var coals = 0;
-            var startRow = 0;
-            var startCol = 0;
-            var commands = Console.ReadLine()
-                .Split(' ', StringSplitOptions.RemoveEmptyEntries);
+            var rowIndex = 0;
+            var colIndex = 0;
+            var commands = ParseArrFromConsole();
 
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
-                var currentRow = Console.ReadLine()
-                    .Split(' ', StringSplitOptions.RemoveEmptyEntries)
-                    .ToArray();
+                var currentRow = ParseArrFromConsole();
                 for (int col = 0; col < matrix.GetLength(1); col++)
                 {
                     matrix[row, col] = currentRow[col];
@@ -31,89 +28,97 @@ namespace _9._Miner
                     {
                         coals++;
                     }
-
                     if (currentRow[col] == "s")
                     {
-                        startRow = row;
-                        startCol = col;
+                        rowIndex = row;
+                        colIndex = col;
                     }
                 }
             }
 
-            var tempRow = startRow;
-            var tempCol = startCol;
             for (int i = 0; i < commands.Length; i++)
             {
                 var command = commands[i];
-                if (command == "up" && tempRow - 1 >= 0)
+                if (command == "up" && rowIndex - 1 >= 0)
                 {
-                    tempRow = tempRow - 1;
-                    tempCol = tempCol;
-                    if (matrix[tempRow, tempCol] == "e")
+                    rowIndex = rowIndex - 1;
+                    colIndex = colIndex;
+                    if (matrix[rowIndex, colIndex] == "e")
                     {
-                        Console.WriteLine($"Game over! ({tempRow}, {tempCol})");
+                        GameOver(rowIndex, colIndex);
                         return;
                     }
-                    else if (matrix[tempRow, tempCol] == "c")
+                    else if (matrix[rowIndex, colIndex] == "c")
                     {
                         coals--;
-                        matrix[tempRow, tempCol] = "*";
+                        matrix[rowIndex, colIndex] = "*";
                     }
                 }
-                else if (command == "right" && tempCol + 1 <= size - 1)
+                else if (command == "right" && colIndex + 1 <= size - 1)
                 {
-                    tempCol = tempCol + 1;
-                    if (matrix[tempRow, tempCol] == "e")
+                    colIndex = colIndex + 1;
+                    if (matrix[rowIndex, colIndex] == "e")
                     {
-                        Console.WriteLine($"Game over! ({tempRow}, {tempCol})");
+                        GameOver(rowIndex, colIndex);
                         return;
+                        
                     }
-                    else if (matrix[tempRow, tempCol] == "c")
+                    else if (matrix[rowIndex, colIndex] == "c")
                     {
                         coals--;
-                        matrix[tempRow, tempCol] = "*";
+                        matrix[rowIndex, colIndex] = "*";
                     }
 
                 }
-                else if (command == "left" && tempCol - 1 >= 0)
+                else if (command == "left" && colIndex - 1 >= 0)
                 {
-                    tempCol = tempCol - 1;
-                    if (matrix[tempRow, tempCol] == "e")
+                    colIndex = colIndex - 1;
+                    if (matrix[rowIndex, colIndex] == "e")
                     {
-                        Console.WriteLine($"Game over! ({tempRow}, {tempCol})");
+                        GameOver(rowIndex, colIndex);
                         return;
                     }
-                    else if (matrix[tempRow, tempCol] == "c")
+                    else if (matrix[rowIndex, colIndex] == "c")
                     {
                         coals--;
-                        matrix[tempRow, tempCol] = "*";
+                        matrix[rowIndex, colIndex] = "*";
                     }
                 }
-                else if (command == "down" && tempRow + 1 <= size - 1)
+                else if (command == "down" && rowIndex + 1 <= size - 1)
                 {
-                    tempRow = tempRow + 1;
-                    if (matrix[tempRow, tempCol] == "e")
+                    rowIndex = rowIndex + 1;
+                    if (matrix[rowIndex, colIndex] == "e")
                     {
-                        Console.WriteLine($"Game over! ({tempRow}, {tempCol})");
+                        GameOver(rowIndex, colIndex);
                         return;
                     }
-                    else if (matrix[tempRow, tempCol] == "c")
+                    else if (matrix[rowIndex, colIndex] == "c")
                     {
                         coals--;
-                        matrix[tempRow, tempCol] = "*";
+                        matrix[rowIndex, colIndex] = "*";
                     }
                 }
 
                 if (coals == 0)
                 {
-                    Console.WriteLine($"You collected all coals! ({tempRow}, {tempCol})");
+                    Console.WriteLine($"You collected all coals! ({rowIndex}, {colIndex})");
                     return;
                 }
             }
+            Console.WriteLine($"{coals} coals left. ({rowIndex}, {colIndex})");
+        }
 
-            Console.WriteLine($"{coals} coals left. ({tempRow}, {tempCol})");
+        static void GameOver(int rowIndex, int colIndex)
+        {
+            Console.WriteLine($"Game over! ({rowIndex}, {colIndex})");
 
+        }
 
+        static string[] ParseArrFromConsole()
+        {
+            return Console.ReadLine()
+                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
+                .ToArray();
         }
     }
 }
