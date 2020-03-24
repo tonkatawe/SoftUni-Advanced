@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.exe
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.pdb

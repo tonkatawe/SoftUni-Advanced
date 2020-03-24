@@ -1,0 +1,10 @@
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.exe
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.pdb
