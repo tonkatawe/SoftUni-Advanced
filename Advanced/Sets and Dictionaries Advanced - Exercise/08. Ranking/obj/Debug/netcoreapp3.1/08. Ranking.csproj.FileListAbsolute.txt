@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.exe
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.csprojAssemblyReference.cache

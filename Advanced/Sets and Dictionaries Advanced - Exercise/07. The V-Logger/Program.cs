@@ -9,8 +9,7 @@ namespace _07._The_V_Logger
     {
         static void Main(string[] args)
         {
-            var followers = new Dictionary<string, SortedSet<string>>();//use it for followers
-            var folloing = new Dictionary<string, HashSet<string>>();//use it for folloing
+            var data = new Dictionary<string, Dictionary<string, HashSet<string>>>();//use it for all data
             while (true)
             {
                 var input = Console.ReadLine();
@@ -24,56 +23,42 @@ namespace _07._The_V_Logger
                 var command = tokens[1];
                 if (command == "joined")
                 {
-                    if (!followers.ContainsKey(vloggerName))
+                    if (!data.ContainsKey(vloggerName))
                     {
-
-                        followers[vloggerName] = new SortedSet<string>();
-                        folloing[vloggerName] = new HashSet<string>();
+                        data.Add(vloggerName, new Dictionary<string, HashSet<string>>());
+                        data[vloggerName].Add("followers", new HashSet<string>());
+                        data[vloggerName].Add("following", new HashSet<string>());
                     }
                 }
                 else if (command == "followed")
                 {
-                    var otherName = tokens[2];
-                    if (followers.ContainsKey(otherName) && folloing.ContainsKey(vloggerName) && vloggerName != otherName)
+                    var member = tokens[2];
+                    if (data.ContainsKey(vloggerName) && data.ContainsKey(member) && member != vloggerName)
                     {
-                        followers[otherName].Add(vloggerName);
-                        if (!folloing.ContainsKey(vloggerName) && folloing.ContainsKey(otherName))
-                        {
-                            folloing[vloggerName] = new HashSet<string>();
-                        }
-                        folloing[vloggerName].Add(otherName);
+
+                        data[vloggerName]["following"].Add(member);
+                        data[member]["followers"].Add(vloggerName);
                     }
 
                 }
             }
 
-            Console.WriteLine($"The V-Logger has a total of {followers.Count} vloggers in its logs.");
+            Console.WriteLine($"The V-Logger has a total of {data.Count} vloggers in its logs.");
             var count = 1;
 
-            var mostFamouse = string.Empty;
-            var min = 0;
-            foreach (var kvp in followers)
+            foreach (var vlogger in data.OrderByDescending(v => v.Value["followers"].Count).ThenBy(v => v.Value["following"].Count))
             {
-                if (kvp.Value.Count > min)
+                Console.WriteLine($"{count}. {vlogger.Key} : {vlogger.Value["followers"].Count} followers, {vlogger.Value["following"].Count} following");
+
+                if (count == 1)
                 {
-                    min = kvp.Value.Count;
-                    mostFamouse = kvp.Key;
+                    foreach (string follower in vlogger.Value["followers"].OrderBy(f => f))
+                    {
+                        Console.WriteLine($"*  {follower}");
+                    }
                 }
-            }
 
-            Console.WriteLine($"{count}. {mostFamouse} : {followers[mostFamouse].Count} followers, {folloing[mostFamouse].Count} following");
-            foreach (var kvp in followers[mostFamouse])
-            {
-                Console.WriteLine($"*  {kvp}");
-            }
-
-            followers.Remove(mostFamouse);
-
-            foreach (var vlogger in followers.OrderByDescending( x => x.Value.Count).ThenByDescending( x=> x.Key))
-            {
                 count++;
-                var name = vlogger.Key;
-                Console.WriteLine($"{count}. {name} : {vlogger.Value.Count} followers, {folloing[name].Count} following");
             }
         }
     }
