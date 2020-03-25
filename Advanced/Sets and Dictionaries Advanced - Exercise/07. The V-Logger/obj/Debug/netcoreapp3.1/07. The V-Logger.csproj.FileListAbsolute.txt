@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.exe
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.pdb

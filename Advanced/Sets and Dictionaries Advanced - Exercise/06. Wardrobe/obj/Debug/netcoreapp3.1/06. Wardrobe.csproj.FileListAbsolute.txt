@@ -1,0 +1,10 @@
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.exe
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.pdb

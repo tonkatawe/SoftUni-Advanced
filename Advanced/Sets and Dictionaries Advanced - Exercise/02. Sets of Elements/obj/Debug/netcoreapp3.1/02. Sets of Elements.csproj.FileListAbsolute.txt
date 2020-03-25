@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.exe
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.pdb

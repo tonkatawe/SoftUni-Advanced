@@ -1,0 +1,10 @@
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.exe
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.dll
+C:\GitHubRepo\C# Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.pdb
