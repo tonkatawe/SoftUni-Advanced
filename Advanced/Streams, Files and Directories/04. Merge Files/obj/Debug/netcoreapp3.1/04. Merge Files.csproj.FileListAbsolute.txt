@@ -1,0 +1,10 @@
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.exe
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.deps.json
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.runtimeconfig.json
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.runtimeconfig.dev.json
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.dll
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.pdb
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\04. Merge Files\obj\Debug\netcoreapp3.1\04. Merge Files.AssemblyInfoInputs.cache
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\04. Merge Files\obj\Debug\netcoreapp3.1\04. Merge Files.AssemblyInfo.cs
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\04. Merge Files\obj\Debug\netcoreapp3.1\04. Merge Files.dll
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\04. Merge Files\obj\Debug\netcoreapp3.1\04. Merge Files.pdb

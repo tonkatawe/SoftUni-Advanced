@@ -1,0 +1,10 @@
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.exe
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.deps.json
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.runtimeconfig.json
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.runtimeconfig.dev.json
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.dll
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.pdb
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.AssemblyInfoInputs.cache
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.AssemblyInfo.cs
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.dll
+C:\Users\tonkatawe\source\repos\Streams, Files and Directories\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.pdb
