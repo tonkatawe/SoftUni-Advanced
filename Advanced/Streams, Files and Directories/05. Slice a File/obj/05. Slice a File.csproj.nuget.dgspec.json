@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tonkatawe\\source\\repos\\Streams, Files and Directories\\05. Slice a File\\05. Slice a File.csproj": {}
+    "C:\\GitHubRepo\\C# Advanced\\Advanced\\Streams, Files and Directories\\05. Slice a File\\05. Slice a File.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tonkatawe\\source\\repos\\Streams, Files and Directories\\05. Slice a File\\05. Slice a File.csproj": {
+    "C:\\GitHubRepo\\C# Advanced\\Advanced\\Streams, Files and Directories\\05. Slice a File\\05. Slice a File.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tonkatawe\\source\\repos\\Streams, Files and Directories\\05. Slice a File\\05. Slice a File.csproj",
+        "projectUniqueName": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Streams, Files and Directories\\05. Slice a File\\05. Slice a File.csproj",
         "projectName": "05. Slice a File",
-        "projectPath": "C:\\Users\\tonkatawe\\source\\repos\\Streams, Files and Directories\\05. Slice a File\\05. Slice a File.csproj",
+        "projectPath": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Streams, Files and Directories\\05. Slice a File\\05. Slice a File.csproj",
         "packagesPath": "C:\\Users\\tonkatawe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tonkatawe\\source\\repos\\Streams, Files and Directories\\05. Slice a File\\obj\\",
+        "outputPath": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Streams, Files and Directories\\05. Slice a File\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tonkatawe\\AppData\\Roaming\\NuGet\\NuGet.Config",

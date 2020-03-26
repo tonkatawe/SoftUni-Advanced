@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tonkatawe\\source\\repos\\Streams, Files and Directories\\01. Odd Lines\\01. Odd Lines.csproj",
+      "projectUniqueName": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Streams, Files and Directories\\01. Odd Lines\\01. Odd Lines.csproj",
       "projectName": "01. Odd Lines",
-      "projectPath": "C:\\Users\\tonkatawe\\source\\repos\\Streams, Files and Directories\\01. Odd Lines\\01. Odd Lines.csproj",
+      "projectPath": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Streams, Files and Directories\\01. Odd Lines\\01. Odd Lines.csproj",
       "packagesPath": "C:\\Users\\tonkatawe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tonkatawe\\source\\repos\\Streams, Files and Directories\\01. Odd Lines\\obj\\",
+      "outputPath": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Streams, Files and Directories\\01. Odd Lines\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tonkatawe\\AppData\\Roaming\\NuGet\\NuGet.Config",

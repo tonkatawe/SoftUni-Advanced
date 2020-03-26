@@ -1,0 +1,10 @@
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\08. Line Numbers\bin\Debug\netcoreapp3.1\08. Line Numbers.exe
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\08. Line Numbers\bin\Debug\netcoreapp3.1\08. Line Numbers.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\08. Line Numbers\bin\Debug\netcoreapp3.1\08. Line Numbers.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\08. Line Numbers\bin\Debug\netcoreapp3.1\08. Line Numbers.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\08. Line Numbers\bin\Debug\netcoreapp3.1\08. Line Numbers.dll
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\08. Line Numbers\bin\Debug\netcoreapp3.1\08. Line Numbers.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\08. Line Numbers\obj\Debug\netcoreapp3.1\08. Line Numbers.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\08. Line Numbers\obj\Debug\netcoreapp3.1\08. Line Numbers.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\08. Line Numbers\obj\Debug\netcoreapp3.1\08. Line Numbers.dll
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\08. Line Numbers\obj\Debug\netcoreapp3.1\08. Line Numbers.pdb

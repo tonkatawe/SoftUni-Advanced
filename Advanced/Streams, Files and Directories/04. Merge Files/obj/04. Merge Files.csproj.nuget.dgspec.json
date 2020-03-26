@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tonkatawe\\source\\repos\\Streams, Files and Directories\\04. Merge Files\\04. Merge Files.csproj": {}
+    "C:\\GitHubRepo\\C# Advanced\\Advanced\\Streams, Files and Directories\\04. Merge Files\\04. Merge Files.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tonkatawe\\source\\repos\\Streams, Files and Directories\\04. Merge Files\\04. Merge Files.csproj": {
+    "C:\\GitHubRepo\\C# Advanced\\Advanced\\Streams, Files and Directories\\04. Merge Files\\04. Merge Files.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tonkatawe\\source\\repos\\Streams, Files and Directories\\04. Merge Files\\04. Merge Files.csproj",
+        "projectUniqueName": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Streams, Files and Directories\\04. Merge Files\\04. Merge Files.csproj",
         "projectName": "04. Merge Files",
-        "projectPath": "C:\\Users\\tonkatawe\\source\\repos\\Streams, Files and Directories\\04. Merge Files\\04. Merge Files.csproj",
+        "projectPath": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Streams, Files and Directories\\04. Merge Files\\04. Merge Files.csproj",
         "packagesPath": "C:\\Users\\tonkatawe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tonkatawe\\source\\repos\\Streams, Files and Directories\\04. Merge Files\\obj\\",
+        "outputPath": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Streams, Files and Directories\\04. Merge Files\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tonkatawe\\AppData\\Roaming\\NuGet\\NuGet.Config",

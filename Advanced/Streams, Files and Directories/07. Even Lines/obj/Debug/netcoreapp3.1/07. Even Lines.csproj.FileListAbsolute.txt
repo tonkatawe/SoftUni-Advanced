@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\07. Even Lines\obj\Debug\netcoreapp3.1\07. Even Lines.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\07. Even Lines\obj\Debug\netcoreapp3.1\07. Even Lines.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\07. Even Lines\obj\Debug\netcoreapp3.1\07. Even Lines.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\07. Even Lines\bin\Debug\netcoreapp3.1\07. Even Lines.exe
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\07. Even Lines\bin\Debug\netcoreapp3.1\07. Even Lines.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\07. Even Lines\bin\Debug\netcoreapp3.1\07. Even Lines.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\07. Even Lines\bin\Debug\netcoreapp3.1\07. Even Lines.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\07. Even Lines\bin\Debug\netcoreapp3.1\07. Even Lines.dll
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\07. Even Lines\bin\Debug\netcoreapp3.1\07. Even Lines.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\07. Even Lines\obj\Debug\netcoreapp3.1\07. Even Lines.dll
+C:\GitHubRepo\C# Advanced\Advanced\Streams, Files and Directories\07. Even Lines\obj\Debug\netcoreapp3.1\07. Even Lines.pdb
