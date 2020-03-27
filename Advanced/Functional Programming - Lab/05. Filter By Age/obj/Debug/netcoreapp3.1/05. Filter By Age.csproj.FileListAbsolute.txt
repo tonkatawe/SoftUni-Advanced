@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.exe
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.dll
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.dll
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.pdb

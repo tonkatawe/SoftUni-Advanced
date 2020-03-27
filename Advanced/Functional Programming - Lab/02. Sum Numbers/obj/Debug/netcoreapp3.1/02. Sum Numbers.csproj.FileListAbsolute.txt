@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.exe
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.dll
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.dll
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.pdb
