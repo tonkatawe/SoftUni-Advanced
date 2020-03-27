@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.exe
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.dll
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.dll
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.pdb

@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.exe
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.dll
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.dll
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.pdb

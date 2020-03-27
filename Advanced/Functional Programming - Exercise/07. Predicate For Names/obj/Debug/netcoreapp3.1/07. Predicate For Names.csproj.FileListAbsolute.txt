@@ -1,0 +1,10 @@
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.exe
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.dll
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.dll
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.pdb

@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.exe
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.dll
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.dll
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.pdb

@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.exe
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.dll
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.dll
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.pdb

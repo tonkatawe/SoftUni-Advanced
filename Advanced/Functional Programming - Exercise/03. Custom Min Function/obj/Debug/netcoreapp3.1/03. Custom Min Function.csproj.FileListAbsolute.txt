@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.exe
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.dll
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.dll
+C:\GitHubRepo\C# Advanced\Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.pdb
