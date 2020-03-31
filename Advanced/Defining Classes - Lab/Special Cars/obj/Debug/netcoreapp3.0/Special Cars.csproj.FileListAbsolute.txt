@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\Special Cars\bin\Debug\netcoreapp3.0\Special Cars.exe
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\Special Cars\bin\Debug\netcoreapp3.0\Special Cars.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\Special Cars\bin\Debug\netcoreapp3.0\Special Cars.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\Special Cars\bin\Debug\netcoreapp3.0\Special Cars.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\Special Cars\bin\Debug\netcoreapp3.0\Special Cars.dll
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\Special Cars\bin\Debug\netcoreapp3.0\Special Cars.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\Special Cars\obj\Debug\netcoreapp3.0\Special Cars.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\Special Cars\obj\Debug\netcoreapp3.0\Special Cars.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\Special Cars\obj\Debug\netcoreapp3.0\Special Cars.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\Special Cars\obj\Debug\netcoreapp3.0\Special Cars.dll
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\Special Cars\obj\Debug\netcoreapp3.0\Special Cars.pdb

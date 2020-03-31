@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Defining Classes - Lab\\Special Cars\\Special Cars.csproj",
-      "projectName": "Special Cars",
-      "projectPath": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Defining Classes - Lab\\Special Cars\\Special Cars.csproj",
+      "projectUniqueName": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Defining Classes - Lab\\Special Cars\\CarManufacturer.csproj",
+      "projectName": "CarManufacturer",
+      "projectPath": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Defining Classes - Lab\\Special Cars\\CarManufacturer.csproj",
       "packagesPath": "C:\\Users\\tonkatawe\\.nuget\\packages\\",
       "outputPath": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Defining Classes - Lab\\Special Cars\\obj\\",
       "projectStyle": "PackageReference",

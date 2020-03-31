@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\CarManufacturer\bin\Debug\netcoreapp3.0\Car.exe
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\CarManufacturer\bin\Debug\netcoreapp3.0\Car.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\CarManufacturer\bin\Debug\netcoreapp3.0\Car.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\CarManufacturer\bin\Debug\netcoreapp3.0\Car.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\CarManufacturer\bin\Debug\netcoreapp3.0\Car.dll
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\CarManufacturer\bin\Debug\netcoreapp3.0\Car.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturerFirst.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturerFirst.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturerFirst.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\CarManufacturer\obj\Debug\netcoreapp3.0\Car.dll
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Lab\CarManufacturer\obj\Debug\netcoreapp3.0\Car.pdb

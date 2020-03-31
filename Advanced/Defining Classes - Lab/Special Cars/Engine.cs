@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Special_Cars
+namespace CarManufacturer
 {
     public class Engine
     {
@@ -22,7 +22,7 @@ namespace Special_Cars
             }
             set
             {
-                this.cubicCapacity = value;
+                this.horsePower = value;
             }
         }
 

@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Special_Cars
+namespace CarManufacturer
 {
-   public class Tire
+    public class Tire
     {
         private int year;
         private double pressure;
@@ -12,13 +12,25 @@ namespace Special_Cars
         public Tire(int year, double pressure)
         {
             this.Year = year;
-            this.pressure = pressure;
+            this.Pressure = pressure;
         }
         public int Year
         {
             get
             {
                 return this.year;
+            }
+            set
+            {
+                this.year = value;
+            }
+        }
+
+        public double Pressure
+        {
+            get
+            {
+                return this.pressure;
             }
             set
             {
