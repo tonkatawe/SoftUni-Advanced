@@ -1,0 +1,11 @@
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\bin\Debug\netcoreapp3.1\StartUp.exe
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\bin\Debug\netcoreapp3.1\StartUp.deps.json
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\bin\Debug\netcoreapp3.1\StartUp.runtimeconfig.json
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\bin\Debug\netcoreapp3.1\StartUp.runtimeconfig.dev.json
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\bin\Debug\netcoreapp3.1\StartUp.dll
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\bin\Debug\netcoreapp3.1\StartUp.pdb
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\obj\Debug\netcoreapp3.1\StartUp.csprojAssemblyReference.cache
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\obj\Debug\netcoreapp3.1\StartUp.AssemblyInfoInputs.cache
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\obj\Debug\netcoreapp3.1\StartUp.AssemblyInfo.cs
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\obj\Debug\netcoreapp3.1\StartUp.dll
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\obj\Debug\netcoreapp3.1\StartUp.pdb

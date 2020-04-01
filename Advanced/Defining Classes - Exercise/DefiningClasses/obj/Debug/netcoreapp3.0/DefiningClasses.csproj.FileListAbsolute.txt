@@ -1,0 +1,22 @@
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\bin\Debug\netcoreapp3.0\DefiningClasses.exe
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\bin\Debug\netcoreapp3.0\DefiningClasses.deps.json
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\bin\Debug\netcoreapp3.0\DefiningClasses.runtimeconfig.json
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\bin\Debug\netcoreapp3.0\DefiningClasses.runtimeconfig.dev.json
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\bin\Debug\netcoreapp3.0\DefiningClasses.dll
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\bin\Debug\netcoreapp3.0\DefiningClasses.pdb
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\obj\Debug\netcoreapp3.0\DefiningClasses.csprojAssemblyReference.cache
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\obj\Debug\netcoreapp3.0\DefiningClasses.AssemblyInfoInputs.cache
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\obj\Debug\netcoreapp3.0\DefiningClasses.AssemblyInfo.cs
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\obj\Debug\netcoreapp3.0\DefiningClasses.dll
+C:\Users\tonkatawe\source\repos\DefiningClasses\StartUp\obj\Debug\netcoreapp3.0\DefiningClasses.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\DefiningClasses\bin\Debug\netcoreapp3.0\DefiningClasses.exe
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\DefiningClasses\bin\Debug\netcoreapp3.0\DefiningClasses.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\DefiningClasses\bin\Debug\netcoreapp3.0\DefiningClasses.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\DefiningClasses\bin\Debug\netcoreapp3.0\DefiningClasses.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\DefiningClasses\bin\Debug\netcoreapp3.0\DefiningClasses.dll
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\DefiningClasses\bin\Debug\netcoreapp3.0\DefiningClasses.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\DefiningClasses\obj\Debug\netcoreapp3.0\DefiningClasses.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\DefiningClasses\obj\Debug\netcoreapp3.0\DefiningClasses.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\DefiningClasses\obj\Debug\netcoreapp3.0\DefiningClasses.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\DefiningClasses\obj\Debug\netcoreapp3.0\DefiningClasses.dll
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\DefiningClasses\obj\Debug\netcoreapp3.0\DefiningClasses.pdb
