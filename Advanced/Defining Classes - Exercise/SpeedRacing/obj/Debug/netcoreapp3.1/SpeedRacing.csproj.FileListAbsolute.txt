@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.exe
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.dll
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.dll
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.pdb

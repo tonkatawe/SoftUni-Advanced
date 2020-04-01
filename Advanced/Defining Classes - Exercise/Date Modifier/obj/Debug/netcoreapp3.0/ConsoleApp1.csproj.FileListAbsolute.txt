@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
