@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHubRepo\\C# Advanced\\Advanced\\Defining Classes - Exercise\\RawData\\RawData.csproj": {}
+    "C:\\GitHubRepo\\C# Advanced\\Advanced\\Defining Classes - Exercise\\CarSalesman\\CarSalesman.csproj": {}
   },
   "projects": {
-    "C:\\GitHubRepo\\C# Advanced\\Advanced\\Defining Classes - Exercise\\RawData\\RawData.csproj": {
+    "C:\\GitHubRepo\\C# Advanced\\Advanced\\Defining Classes - Exercise\\CarSalesman\\CarSalesman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Defining Classes - Exercise\\RawData\\RawData.csproj",
-        "projectName": "RawData",
-        "projectPath": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Defining Classes - Exercise\\RawData\\RawData.csproj",
+        "projectUniqueName": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Defining Classes - Exercise\\CarSalesman\\CarSalesman.csproj",
+        "projectName": "CarSalesman",
+        "projectPath": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Defining Classes - Exercise\\CarSalesman\\CarSalesman.csproj",
         "packagesPath": "C:\\Users\\tonkatawe\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Defining Classes - Exercise\\RawData\\obj\\",
+        "outputPath": "C:\\GitHubRepo\\C# Advanced\\Advanced\\Defining Classes - Exercise\\CarSalesman\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tonkatawe\\AppData\\Roaming\\NuGet\\NuGet.Config",

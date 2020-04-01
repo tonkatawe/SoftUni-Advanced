@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp3.0\CarSalesman.exe
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp3.0\CarSalesman.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp3.0\CarSalesman.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp3.0\CarSalesman.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp3.0\CarSalesman.dll
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp3.0\CarSalesman.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\CarSalesman\obj\Debug\netcoreapp3.0\CarSalesman.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\CarSalesman\obj\Debug\netcoreapp3.0\CarSalesman.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\CarSalesman\obj\Debug\netcoreapp3.0\CarSalesman.dll
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\CarSalesman\obj\Debug\netcoreapp3.0\CarSalesman.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\CarSalesman\obj\Debug\netcoreapp3.0\CarSalesman.csprojAssemblyReference.cache

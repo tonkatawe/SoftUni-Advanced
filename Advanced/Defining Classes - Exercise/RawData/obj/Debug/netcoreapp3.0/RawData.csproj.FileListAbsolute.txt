@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\RawData\obj\Debug\netcoreapp3.0\RawData.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\RawData\obj\Debug\netcoreapp3.0\RawData.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\RawData\obj\Debug\netcoreapp3.0\RawData.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\RawData\bin\Debug\netcoreapp3.0\RawData.exe
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\RawData\bin\Debug\netcoreapp3.0\RawData.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\RawData\bin\Debug\netcoreapp3.0\RawData.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\RawData\bin\Debug\netcoreapp3.0\RawData.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\RawData\bin\Debug\netcoreapp3.0\RawData.dll
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\RawData\bin\Debug\netcoreapp3.0\RawData.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\RawData\obj\Debug\netcoreapp3.0\RawData.dll
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\RawData\obj\Debug\netcoreapp3.0\RawData.pdb
