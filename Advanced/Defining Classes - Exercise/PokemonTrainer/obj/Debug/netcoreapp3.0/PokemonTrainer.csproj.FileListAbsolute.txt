@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\PokemonTrainer\bin\Debug\netcoreapp3.0\PokemonTrainer.exe
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\PokemonTrainer\bin\Debug\netcoreapp3.0\PokemonTrainer.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\PokemonTrainer\bin\Debug\netcoreapp3.0\PokemonTrainer.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\PokemonTrainer\bin\Debug\netcoreapp3.0\PokemonTrainer.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\PokemonTrainer\bin\Debug\netcoreapp3.0\PokemonTrainer.dll
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\PokemonTrainer\bin\Debug\netcoreapp3.0\PokemonTrainer.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\PokemonTrainer\obj\Debug\netcoreapp3.0\PokemonTrainer.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\PokemonTrainer\obj\Debug\netcoreapp3.0\PokemonTrainer.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\PokemonTrainer\obj\Debug\netcoreapp3.0\PokemonTrainer.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\PokemonTrainer\obj\Debug\netcoreapp3.0\PokemonTrainer.dll
+C:\GitHubRepo\C# Advanced\Advanced\Defining Classes - Exercise\PokemonTrainer\obj\Debug\netcoreapp3.0\PokemonTrainer.pdb

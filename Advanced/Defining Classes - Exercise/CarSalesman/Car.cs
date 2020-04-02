@@ -8,29 +8,29 @@ namespace CarSalesman
     {
         private string model;
         private Engine engine;
-        private int weight;
+        private double? weight;
         private string color;
 
-        public Car()
-        {
-            this.Weight = 0;
-            this.Color = "n/a";
-        }
 
         public Car(string model, Engine engine)
-        : this()
         {
             this.Model = model;
             this.Engine = engine;
         }
 
-        public Car(string model, Engine engine, int weight)
+        public Car(string model, Engine engine, double weight)
         : this(model, engine)
         {
             this.Weight = weight;
         }
 
-        public Car(string model, Engine engine, int weight, string color)
+        public Car(string model, Engine engine, string color)
+        : this(model, engine)
+        {
+            this.Color = color;
+        }
+
+        public Car(string model, Engine engine, double weight, string color)
         : this(model, engine, weight)
         {
             this.Color = color;
@@ -47,7 +47,7 @@ namespace CarSalesman
             set { this.engine = value; }
         }
 
-        public int Weight
+        public double? Weight
         {
             get
             {
@@ -55,6 +55,7 @@ namespace CarSalesman
             }
             set
             {
+
                 this.weight = value;
             }
         }
@@ -69,6 +70,18 @@ namespace CarSalesman
             {
                 this.color = value;
             }
+        }
+
+        public override string ToString()
+        {
+            var weightMsg = this.Weight.HasValue ? this.Weight.ToString() : "n/a";
+            var colorMsg = String.IsNullOrEmpty(this.Color) ? "n/a" : this.Color;
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"{this.Model}:");
+            sb.AppendLine($"{this.Engine}");
+            sb.AppendLine($"  Weight: {weightMsg}");
+            sb.AppendLine($"  Color: {colorMsg}");
+            return sb.ToString().TrimEnd();
         }
     }
 }
