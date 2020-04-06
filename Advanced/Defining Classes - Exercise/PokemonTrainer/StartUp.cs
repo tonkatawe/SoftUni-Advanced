@@ -46,16 +46,19 @@ namespace PokemonTrainer
                     break;
                 }
 
+
+
                 for (int i = 0; i < trainers.Count; i++)
                 {
                     if (trainers[i].Pokemons.Any(x => x.Element == input))
                     {
                         foreach (var item in trainers[i].Pokemons)
                         {
-                            item.ReduceHealth();
 
+                            item.ReduceHealth();
                         }
                         trainers[i].IncreaseBadges();
+
                     }
                 }
             }
