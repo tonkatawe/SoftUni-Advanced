@@ -1,0 +1,11 @@
+C:\Users\tonkatawe\source\repos\Workshops - CSharp Advanced\Data Structures\bin\Debug\netcoreapp3.1\Data Structures.exe
+C:\Users\tonkatawe\source\repos\Workshops - CSharp Advanced\Data Structures\bin\Debug\netcoreapp3.1\Data Structures.deps.json
+C:\Users\tonkatawe\source\repos\Workshops - CSharp Advanced\Data Structures\bin\Debug\netcoreapp3.1\Data Structures.runtimeconfig.json
+C:\Users\tonkatawe\source\repos\Workshops - CSharp Advanced\Data Structures\bin\Debug\netcoreapp3.1\Data Structures.runtimeconfig.dev.json
+C:\Users\tonkatawe\source\repos\Workshops - CSharp Advanced\Data Structures\bin\Debug\netcoreapp3.1\Data Structures.dll
+C:\Users\tonkatawe\source\repos\Workshops - CSharp Advanced\Data Structures\bin\Debug\netcoreapp3.1\Data Structures.pdb
+C:\Users\tonkatawe\source\repos\Workshops - CSharp Advanced\Data Structures\obj\Debug\netcoreapp3.1\Data Structures.csprojAssemblyReference.cache
+C:\Users\tonkatawe\source\repos\Workshops - CSharp Advanced\Data Structures\obj\Debug\netcoreapp3.1\Data Structures.AssemblyInfoInputs.cache
+C:\Users\tonkatawe\source\repos\Workshops - CSharp Advanced\Data Structures\obj\Debug\netcoreapp3.1\Data Structures.AssemblyInfo.cs
+C:\Users\tonkatawe\source\repos\Workshops - CSharp Advanced\Data Structures\obj\Debug\netcoreapp3.1\Data Structures.dll
+C:\Users\tonkatawe\source\repos\Workshops - CSharp Advanced\Data Structures\obj\Debug\netcoreapp3.1\Data Structures.pdb
