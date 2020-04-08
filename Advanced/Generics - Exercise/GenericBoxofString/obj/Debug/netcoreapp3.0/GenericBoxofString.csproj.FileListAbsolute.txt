@@ -1,0 +1,22 @@
+C:\Users\tonkatawe\source\repos\Generics - Exercise\GenericBoxofString\bin\Debug\netcoreapp3.0\GenericBoxofString.exe
+C:\Users\tonkatawe\source\repos\Generics - Exercise\GenericBoxofString\bin\Debug\netcoreapp3.0\GenericBoxofString.deps.json
+C:\Users\tonkatawe\source\repos\Generics - Exercise\GenericBoxofString\bin\Debug\netcoreapp3.0\GenericBoxofString.runtimeconfig.json
+C:\Users\tonkatawe\source\repos\Generics - Exercise\GenericBoxofString\bin\Debug\netcoreapp3.0\GenericBoxofString.runtimeconfig.dev.json
+C:\Users\tonkatawe\source\repos\Generics - Exercise\GenericBoxofString\bin\Debug\netcoreapp3.0\GenericBoxofString.dll
+C:\Users\tonkatawe\source\repos\Generics - Exercise\GenericBoxofString\bin\Debug\netcoreapp3.0\GenericBoxofString.pdb
+C:\Users\tonkatawe\source\repos\Generics - Exercise\GenericBoxofString\obj\Debug\netcoreapp3.0\GenericBoxofString.csprojAssemblyReference.cache
+C:\Users\tonkatawe\source\repos\Generics - Exercise\GenericBoxofString\obj\Debug\netcoreapp3.0\GenericBoxofString.AssemblyInfoInputs.cache
+C:\Users\tonkatawe\source\repos\Generics - Exercise\GenericBoxofString\obj\Debug\netcoreapp3.0\GenericBoxofString.AssemblyInfo.cs
+C:\Users\tonkatawe\source\repos\Generics - Exercise\GenericBoxofString\obj\Debug\netcoreapp3.0\GenericBoxofString.dll
+C:\Users\tonkatawe\source\repos\Generics - Exercise\GenericBoxofString\obj\Debug\netcoreapp3.0\GenericBoxofString.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Generics - Exercise\GenericBoxofString\bin\Debug\netcoreapp3.0\GenericBoxofString.exe
+C:\GitHubRepo\C# Advanced\Advanced\Generics - Exercise\GenericBoxofString\bin\Debug\netcoreapp3.0\GenericBoxofString.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Generics - Exercise\GenericBoxofString\bin\Debug\netcoreapp3.0\GenericBoxofString.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Generics - Exercise\GenericBoxofString\bin\Debug\netcoreapp3.0\GenericBoxofString.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Generics - Exercise\GenericBoxofString\bin\Debug\netcoreapp3.0\GenericBoxofString.dll
+C:\GitHubRepo\C# Advanced\Advanced\Generics - Exercise\GenericBoxofString\bin\Debug\netcoreapp3.0\GenericBoxofString.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Generics - Exercise\GenericBoxofString\obj\Debug\netcoreapp3.0\GenericBoxofString.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Generics - Exercise\GenericBoxofString\obj\Debug\netcoreapp3.0\GenericBoxofString.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Generics - Exercise\GenericBoxofString\obj\Debug\netcoreapp3.0\GenericBoxofString.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Generics - Exercise\GenericBoxofString\obj\Debug\netcoreapp3.0\GenericBoxofString.dll
+C:\GitHubRepo\C# Advanced\Advanced\Generics - Exercise\GenericBoxofString\obj\Debug\netcoreapp3.0\GenericBoxofString.pdb
