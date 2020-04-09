@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Workshops - CSharp Advanced\Data Structures II\bin\Debug\netcoreapp3.0\Data Structures II.exe
+C:\GitHubRepo\C# Advanced\Advanced\Workshops - CSharp Advanced\Data Structures II\bin\Debug\netcoreapp3.0\Data Structures II.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Workshops - CSharp Advanced\Data Structures II\bin\Debug\netcoreapp3.0\Data Structures II.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Workshops - CSharp Advanced\Data Structures II\bin\Debug\netcoreapp3.0\Data Structures II.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Workshops - CSharp Advanced\Data Structures II\bin\Debug\netcoreapp3.0\Data Structures II.dll
+C:\GitHubRepo\C# Advanced\Advanced\Workshops - CSharp Advanced\Data Structures II\bin\Debug\netcoreapp3.0\Data Structures II.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Workshops - CSharp Advanced\Data Structures II\obj\Debug\netcoreapp3.0\Data Structures II.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Workshops - CSharp Advanced\Data Structures II\obj\Debug\netcoreapp3.0\Data Structures II.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Workshops - CSharp Advanced\Data Structures II\obj\Debug\netcoreapp3.0\Data Structures II.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Workshops - CSharp Advanced\Data Structures II\obj\Debug\netcoreapp3.0\Data Structures II.dll
+C:\GitHubRepo\C# Advanced\Advanced\Workshops - CSharp Advanced\Data Structures II\obj\Debug\netcoreapp3.0\Data Structures II.pdb
