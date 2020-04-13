@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.pdb
