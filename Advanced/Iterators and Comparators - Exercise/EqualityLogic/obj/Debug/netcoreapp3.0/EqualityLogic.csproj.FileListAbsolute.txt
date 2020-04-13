@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\EqualityLogic\bin\Debug\netcoreapp3.0\EqualityLogic.exe
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\EqualityLogic\bin\Debug\netcoreapp3.0\EqualityLogic.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\EqualityLogic\bin\Debug\netcoreapp3.0\EqualityLogic.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\EqualityLogic\bin\Debug\netcoreapp3.0\EqualityLogic.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\EqualityLogic\bin\Debug\netcoreapp3.0\EqualityLogic.dll
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\EqualityLogic\bin\Debug\netcoreapp3.0\EqualityLogic.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\netcoreapp3.0\EqualityLogic.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\netcoreapp3.0\EqualityLogic.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\netcoreapp3.0\EqualityLogic.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\netcoreapp3.0\EqualityLogic.dll
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\netcoreapp3.0\EqualityLogic.pdb

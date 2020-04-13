@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.0\Froggy.exe
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.0\Froggy.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.0\Froggy.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.0\Froggy.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.0\Froggy.dll
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.0\Froggy.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.0\Froggy.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.0\Froggy.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.0\Froggy.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.0\Froggy.dll
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.0\Froggy.pdb

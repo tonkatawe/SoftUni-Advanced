@@ -9,3 +9,14 @@ C:\Users\tonkatawe\source\repos\Iterators and Comparators - Exercise\ListyIterat
 C:\Users\tonkatawe\source\repos\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.0\ListyIterator.AssemblyInfo.cs
 C:\Users\tonkatawe\source\repos\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.0\ListyIterator.dll
 C:\Users\tonkatawe\source\repos\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.0\ListyIterator.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.0\ListyIterator.exe
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.0\ListyIterator.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.0\ListyIterator.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.0\ListyIterator.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.0\ListyIterator.dll
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.0\ListyIterator.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.0\ListyIterator.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.0\ListyIterator.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.0\ListyIterator.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.0\ListyIterator.dll
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.0\ListyIterator.pdb

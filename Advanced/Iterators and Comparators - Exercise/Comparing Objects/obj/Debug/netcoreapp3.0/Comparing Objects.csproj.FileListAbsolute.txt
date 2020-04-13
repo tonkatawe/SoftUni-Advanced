@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Comparing Objects\bin\Debug\netcoreapp3.0\Comparing Objects.exe
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Comparing Objects\bin\Debug\netcoreapp3.0\Comparing Objects.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Comparing Objects\bin\Debug\netcoreapp3.0\Comparing Objects.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Comparing Objects\bin\Debug\netcoreapp3.0\Comparing Objects.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Comparing Objects\bin\Debug\netcoreapp3.0\Comparing Objects.dll
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Comparing Objects\bin\Debug\netcoreapp3.0\Comparing Objects.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Comparing Objects\obj\Debug\netcoreapp3.0\Comparing Objects.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Comparing Objects\obj\Debug\netcoreapp3.0\Comparing Objects.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Comparing Objects\obj\Debug\netcoreapp3.0\Comparing Objects.dll
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Comparing Objects\obj\Debug\netcoreapp3.0\Comparing Objects.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Iterators and Comparators - Exercise\Comparing Objects\obj\Debug\netcoreapp3.0\Comparing Objects.csprojAssemblyReference.cache
