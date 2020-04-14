@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Guild\Guild\bin\Debug\netcoreapp3.0\Guild.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Guild\Guild\bin\Debug\netcoreapp3.0\Guild.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Guild\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Guild\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Guild\Guild\bin\Debug\netcoreapp3.0\Guild.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Guild\Guild\bin\Debug\netcoreapp3.0\Guild.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Guild\Guild\obj\Debug\netcoreapp3.0\Guild.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Guild\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Guild\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Guild\Guild\obj\Debug\netcoreapp3.0\Guild.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Guild\Guild\obj\Debug\netcoreapp3.0\Guild.pdb

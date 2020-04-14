@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.pdb
