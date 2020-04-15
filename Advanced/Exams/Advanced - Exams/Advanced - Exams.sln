@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Lootbox", "01. Lootbox\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Re-Volt", "02. Re-Volt\02. Re-Volt.csproj", "{B31725B2-D803-44E7-AE91-16594302298A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Santa's Present Factory", "01. Santa's Present Factory\01. Santa's Present Factory.csproj", "{76C5DD97-2083-4F58-A9B1-18BAF8ED009E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Santa's Present Factory", "01. Santa's Present Factory\01. Santa's Present Factory.csproj", "{76C5DD97-2083-4F58-A9B1-18BAF8ED009E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Present Delivery", "02. Present Delivery\02. Present Delivery.csproj", "{0813571D-35A5-4E23-9D9F-D24C502E9C0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{76C5DD97-2083-4F58-A9B1-18BAF8ED009E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76C5DD97-2083-4F58-A9B1-18BAF8ED009E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76C5DD97-2083-4F58-A9B1-18BAF8ED009E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0813571D-35A5-4E23-9D9F-D24C502E9C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0813571D-35A5-4E23-9D9F-D24C502E9C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0813571D-35A5-4E23-9D9F-D24C502E9C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0813571D-35A5-4E23-9D9F-D24C502E9C0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
