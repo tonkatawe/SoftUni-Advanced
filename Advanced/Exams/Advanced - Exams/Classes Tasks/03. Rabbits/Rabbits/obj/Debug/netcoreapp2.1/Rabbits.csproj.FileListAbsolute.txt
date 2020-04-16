@@ -1,0 +1,10 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Rabbits\bin\Debug\netcoreapp2.1\Rabbits.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Rabbits\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Rabbits\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Rabbits\bin\Debug\netcoreapp2.1\Rabbits.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Rabbits\bin\Debug\netcoreapp2.1\Rabbits.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Rabbits\obj\Debug\netcoreapp2.1\Rabbits.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Rabbits\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Rabbits\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Rabbits\obj\Debug\netcoreapp2.1\Rabbits.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Rabbits\obj\Debug\netcoreapp2.1\Rabbits.pdb

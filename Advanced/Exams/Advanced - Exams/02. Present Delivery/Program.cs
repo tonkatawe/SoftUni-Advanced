@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace _02._Present_Delivery
 {
+    //here I have 83/100 
     class Program
     {
         static void Main(string[] args)
@@ -18,6 +20,7 @@ namespace _02._Present_Delivery
             var niceKidsCounter = 0;
             //make counter for all nice kids in the matrix
             var matrixNiceKids = 0;
+            var naughtyKids = 0;
 
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
@@ -32,30 +35,31 @@ namespace _02._Present_Delivery
                     {
                         rowStart = row;
                         colStart = col;
+
                     }
 
-                    if (currentRow[col] == "V")
-                    {
-                        matrixNiceKids++;
-                    }
+
+
                 }
             }
 
             while (true)
             {
                 var command = Console.ReadLine();
-                if (command == "Christmas morning" || countOfPresents == 0)
+                if (countOfPresents == 0)
+                {
+                    Console.WriteLine("Santa ran out of presents!");
+                    break;
+                }
+                if (command == "Christmas morning")
                 {
                     break;
                 }
                 //I am not sure but might be I have to make 'if' for matrix`s boundary per each movement. Firstly I`ll skip this.
                 else if (command == "up")
                 {
-
                     rowStart--;
-                //    matrix[rowStart, colStart] = "S";
                     matrix[rowStart + 1, colStart] = "-";
-                    //    TaskLogical(matrix, rowStart, colStart, countOfPresents);
                     if (matrix[rowStart, colStart] == "X")
                     {
                         matrix[rowStart, colStart] = "S";
@@ -63,6 +67,7 @@ namespace _02._Present_Delivery
                     else if (matrix[rowStart, colStart] == "V")
                     {
                         matrix[rowStart, colStart] = "S";
+                        niceKidsCounter++;
                         countOfPresents--;
                     }
                     else if (matrix[rowStart, colStart] == "C")
@@ -70,25 +75,49 @@ namespace _02._Present_Delivery
                         matrix[rowStart, colStart] = "S";
                         for (int i = 0; i < 4; i++)
                         {
-                            if (matrix[rowStart + 1, colStart] == "X" || matrix[rowStart + 1, colStart] == "V")
+                            if (matrix[rowStart + 1, colStart] == "X")
                             {
                                 matrix[rowStart + 1, colStart] = "-";
                                 countOfPresents--;
                             }
-                            else if (matrix[rowStart - 1, colStart] == "X" || matrix[rowStart - 1, colStart] == "V")
+                            else if (matrix[rowStart + 1, colStart] == "V")
+                            {
+                                matrix[rowStart + 1, colStart] = "-";
+                                countOfPresents--;
+                                niceKidsCounter++;
+                            }
+                            else if (matrix[rowStart - 1, colStart] == "X")
                             {
                                 matrix[rowStart - 1, colStart] = "-";
                                 countOfPresents--;
                             }
-                            else if (matrix[rowStart, colStart + 1] == "X" || matrix[rowStart, colStart + 1] == "V")
+                            else if (matrix[rowStart - 1, colStart] == "V")
+                            {
+                                matrix[rowStart - 1, colStart] = "-";
+                                countOfPresents--;
+                                niceKidsCounter++;
+                            }
+                            else if (matrix[rowStart, colStart + 1] == "X")
                             {
                                 matrix[rowStart, colStart + 1] = "-";
                                 countOfPresents--;
                             }
-                            else if (matrix[rowStart, colStart - 1] == "X" || matrix[rowStart, colStart - 1] == "V")
+                            else if (matrix[rowStart, colStart + 1] == "V")
+                            {
+                                matrix[rowStart, colStart + 1] = "-";
+                                countOfPresents--;
+                                niceKidsCounter++;
+                            }
+                            else if (matrix[rowStart, colStart - 1] == "X")
                             {
                                 matrix[rowStart, colStart - 1] = "-";
                                 countOfPresents--;
+                            }
+                            else if (matrix[rowStart, colStart - 1] == "V")
+                            {
+                                matrix[rowStart, colStart - 1] = "-";
+                                countOfPresents--;
+                                niceKidsCounter++;
                             }
 
                             if (countOfPresents == 0)
@@ -101,7 +130,7 @@ namespace _02._Present_Delivery
                 else if (command == "down")
                 {
                     rowStart++;
-                //    matrix[rowStart, colStart] = "S";
+                    //    matrix[rowStart, colStart] = "S";
                     matrix[rowStart - 1, colStart] = "-";
                     if (matrix[rowStart, colStart] == "X")
                     {
@@ -111,31 +140,56 @@ namespace _02._Present_Delivery
                     {
                         matrix[rowStart, colStart] = "S";
                         countOfPresents--;
+                        niceKidsCounter++;
                     }
                     else if (matrix[rowStart, colStart] == "C")
                     {
                         matrix[rowStart, colStart] = "S";
                         for (int i = 0; i < 4; i++)
                         {
-                            if (matrix[rowStart + 1, colStart] == "X" || matrix[rowStart + 1, colStart] == "V")
+                            if (matrix[rowStart + 1, colStart] == "X")
                             {
                                 matrix[rowStart + 1, colStart] = "-";
                                 countOfPresents--;
                             }
-                            else if (matrix[rowStart - 1, colStart] == "X" || matrix[rowStart - 1, colStart] == "V")
+                            else if (matrix[rowStart + 1, colStart] == "V")
+                            {
+                                matrix[rowStart + 1, colStart] = "-";
+                                countOfPresents--;
+                                niceKidsCounter++;
+                            }
+                            else if (matrix[rowStart - 1, colStart] == "X")
                             {
                                 matrix[rowStart - 1, colStart] = "-";
                                 countOfPresents--;
                             }
-                            else if (matrix[rowStart, colStart + 1] == "X" || matrix[rowStart, colStart + 1] == "V")
+                            else if (matrix[rowStart - 1, colStart] == "V")
+                            {
+                                matrix[rowStart - 1, colStart] = "-";
+                                countOfPresents--;
+                                niceKidsCounter++;
+                            }
+                            else if (matrix[rowStart, colStart + 1] == "X")
                             {
                                 matrix[rowStart, colStart + 1] = "-";
                                 countOfPresents--;
                             }
-                            else if (matrix[rowStart, colStart - 1] == "X" || matrix[rowStart, colStart - 1] == "V")
+                            else if (matrix[rowStart, colStart + 1] == "V")
+                            {
+                                matrix[rowStart, colStart + 1] = "-";
+                                countOfPresents--;
+                                niceKidsCounter++;
+                            }
+                            else if (matrix[rowStart, colStart - 1] == "X")
                             {
                                 matrix[rowStart, colStart - 1] = "-";
                                 countOfPresents--;
+                            }
+                            else if (matrix[rowStart, colStart - 1] == "V")
+                            {
+                                matrix[rowStart, colStart - 1] = "-";
+                                countOfPresents--;
+                                niceKidsCounter++;
                             }
 
                             if (countOfPresents == 0)
@@ -148,9 +202,8 @@ namespace _02._Present_Delivery
                 else if (command == "left")
                 {
                     colStart--;
-              //      matrix[rowStart, colStart] = "S";
-                    matrix[rowStart, colStart+1] = "-";
-                   
+                    matrix[rowStart, colStart + 1] = "-";
+
                     if (matrix[rowStart, colStart] == "X")
                     {
                         matrix[rowStart, colStart] = "S";
@@ -159,31 +212,56 @@ namespace _02._Present_Delivery
                     {
                         matrix[rowStart, colStart] = "S";
                         countOfPresents--;
+                        niceKidsCounter++;
                     }
                     else if (matrix[rowStart, colStart] == "C")
                     {
                         matrix[rowStart, colStart] = "S";
                         for (int i = 0; i < 4; i++)
                         {
-                            if (matrix[rowStart + 1, colStart] == "X" || matrix[rowStart + 1, colStart] == "V")
+                            if (matrix[rowStart + 1, colStart] == "X")
                             {
                                 matrix[rowStart + 1, colStart] = "-";
                                 countOfPresents--;
                             }
-                            else if (matrix[rowStart - 1, colStart] == "X" || matrix[rowStart - 1, colStart] == "V")
+                            else if (matrix[rowStart + 1, colStart] == "V")
+                            {
+                                matrix[rowStart + 1, colStart] = "-";
+                                countOfPresents--;
+                                niceKidsCounter++;
+                            }
+                            else if (matrix[rowStart - 1, colStart] == "X")
                             {
                                 matrix[rowStart - 1, colStart] = "-";
                                 countOfPresents--;
                             }
-                            else if (matrix[rowStart, colStart + 1] == "X" || matrix[rowStart, colStart + 1] == "V")
+                            else if (matrix[rowStart - 1, colStart] == "V")
+                            {
+                                matrix[rowStart - 1, colStart] = "-";
+                                countOfPresents--;
+                                niceKidsCounter++;
+                            }
+                            else if (matrix[rowStart, colStart + 1] == "X")
                             {
                                 matrix[rowStart, colStart + 1] = "-";
                                 countOfPresents--;
                             }
-                            else if (matrix[rowStart, colStart - 1] == "X" || matrix[rowStart, colStart - 1] == "V")
+                            else if (matrix[rowStart, colStart + 1] == "V")
+                            {
+                                matrix[rowStart, colStart + 1] = "-";
+                                countOfPresents--;
+                                niceKidsCounter++;
+                            }
+                            else if (matrix[rowStart, colStart - 1] == "X")
                             {
                                 matrix[rowStart, colStart - 1] = "-";
                                 countOfPresents--;
+                            }
+                            else if (matrix[rowStart, colStart - 1] == "V")
+                            {
+                                matrix[rowStart, colStart - 1] = "-";
+                                countOfPresents--;
+                                niceKidsCounter++;
                             }
 
                             if (countOfPresents == 0)
@@ -196,8 +274,7 @@ namespace _02._Present_Delivery
                 else if (command == "right")
                 {
                     colStart++;
-              //      matrix[rowStart, colStart] = "S";
-                    matrix[rowStart, colStart-1] = "-";
+                    matrix[rowStart, colStart - 1] = "-";
                     if (matrix[rowStart, colStart] == "X")
                     {
                         matrix[rowStart, colStart] = "S";
@@ -206,31 +283,56 @@ namespace _02._Present_Delivery
                     {
                         matrix[rowStart, colStart] = "S";
                         countOfPresents--;
+                        niceKidsCounter++;
                     }
                     else if (matrix[rowStart, colStart] == "C")
                     {
                         matrix[rowStart, colStart] = "S";
                         for (int i = 0; i < 4; i++)
                         {
-                            if (matrix[rowStart + 1, colStart] == "X" || matrix[rowStart + 1, colStart] == "V")
+                            if (matrix[rowStart + 1, colStart] == "X")
                             {
                                 matrix[rowStart + 1, colStart] = "-";
                                 countOfPresents--;
                             }
-                            else if (matrix[rowStart - 1, colStart] == "X" || matrix[rowStart - 1, colStart] == "V")
+                            else if (matrix[rowStart + 1, colStart] == "V")
+                            {
+                                matrix[rowStart + 1, colStart] = "-";
+                                countOfPresents--;
+                                niceKidsCounter++;
+                            }
+                            else if (matrix[rowStart - 1, colStart] == "X")
                             {
                                 matrix[rowStart - 1, colStart] = "-";
                                 countOfPresents--;
                             }
-                            else if (matrix[rowStart, colStart + 1] == "X" || matrix[rowStart, colStart + 1] == "V")
+                            else if (matrix[rowStart - 1, colStart] == "V")
+                            {
+                                matrix[rowStart - 1, colStart] = "-";
+                                countOfPresents--;
+                                niceKidsCounter++;
+                            }
+                            else if (matrix[rowStart, colStart + 1] == "X")
                             {
                                 matrix[rowStart, colStart + 1] = "-";
                                 countOfPresents--;
                             }
-                            else if (matrix[rowStart, colStart - 1] == "X" || matrix[rowStart, colStart - 1] == "V")
+                            else if (matrix[rowStart, colStart + 1] == "V")
+                            {
+                                matrix[rowStart, colStart + 1] = "-";
+                                countOfPresents--;
+                                niceKidsCounter++;
+                            }
+                            else if (matrix[rowStart, colStart - 1] == "X")
                             {
                                 matrix[rowStart, colStart - 1] = "-";
                                 countOfPresents--;
+                            }
+                            else if (matrix[rowStart, colStart - 1] == "V")
+                            {
+                                matrix[rowStart, colStart - 1] = "-";
+                                countOfPresents--;
+                                niceKidsCounter++;
                             }
 
                             if (countOfPresents == 0)
@@ -242,10 +344,7 @@ namespace _02._Present_Delivery
                 }
             }
 
-            if (countOfPresents == 0)
-            {
-                Console.WriteLine("Santa ran out of presents!");
-            }
+
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
                 for (int col = 0; col < matrix.GetLength(1); col++)
@@ -253,20 +352,21 @@ namespace _02._Present_Delivery
                     Console.Write(matrix[row, col] + " ");
                     if (matrix[row, col] == "V")
                     {
-                        niceKidsCounter++;
+                        matrixNiceKids++;
                     }
                 }
 
                 Console.WriteLine();
             }
 
-            if (niceKidsCounter > 0 && countOfPresents == 0)
+            var resultKids = niceKidsCounter - matrixNiceKids;
+            if (matrixNiceKids > 0)
             {
-                Console.WriteLine($"No presents for {niceKidsCounter} nice kid/s.");
+                Console.WriteLine($"No presents for {matrixNiceKids} nice kid/s.");
             }
             else
             {
-                Console.WriteLine($"Good job, Santa! {matrixNiceKids} happy nice kid/s.");
+                Console.WriteLine($"Good job, Santa! {niceKidsCounter} happy nice kid/s.");
             }
         }
     }

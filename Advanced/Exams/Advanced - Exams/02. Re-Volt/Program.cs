@@ -5,6 +5,8 @@ using System.Net;
 
 namespace _02._Re_Volt
 {
+    //here my point is 90/100 :(
+
     class Program
     {
         static void Main(string[] args)
@@ -38,133 +40,189 @@ namespace _02._Re_Volt
                 if (command == "down")
                 {
                     matrix[rowCurr, colCurr] = '-';
-                    rowCurr++;
-                    if (IsInOutOfBounder(matrix, rowCurr))
-                    {
-                        rowCurr = matrix.GetLength(0) - 1;
-                    }
-                    if (IsBonus(matrix, rowCurr, colCurr))
+                    if (rowCurr + 1 < n)
                     {
                         rowCurr++;
-                   
-                        if (IsInOutOfBounder(matrix, rowCurr))
+                    }
+                    else
+                    {
+                        rowCurr = 0;
+                    }
+                    if (matrix[rowCurr, colCurr] == 'B')
+                    {
+                        if (rowCurr + 1 < n)
                         {
-                            rowCurr = matrix.GetLength(0) - 1;
+                            rowCurr++;
+                        }
+                        else
+                        {
+                            rowCurr = 0;
                         }
                     }
-                    if (IsTrap(matrix, rowCurr, colCurr))
+
+                    if (matrix[rowCurr, colCurr] == 'T')
                     {
-                        rowCurr--;
-                        if (IsInOutOfBounder(matrix, rowCurr))
+                        if (rowCurr - 1 >= 0)
                         {
-                            rowCurr = matrix.GetLength(0) - 1;
+                            rowCurr--;
+                        }
+                        else
+                        {
+                            rowCurr = n - 1;
                         }
                     }
-                    if (IsFinish(matrix, rowCurr, colCurr))
+                    if (matrix[rowCurr, colCurr] == 'F')
                     {
+                        matrix[rowCurr, colCurr] = 'f';
                         Console.WriteLine("Player won!");
                         PrintMatrix(matrix);
                         return;
                     }
+                    else
+                    {
+                        matrix[rowCurr, colCurr] = 'f';
+                    }
+
                 }
                 if (command == "up")
                 {
                     matrix[rowCurr, colCurr] = '-';
-                    rowCurr--;
-                    if (IsInOutOfBounder(matrix, rowCurr))
-                    {
-                        rowCurr = matrix.GetLength(0) - 1;
-                    }
-                    if (IsBonus(matrix, rowCurr, colCurr))
+                    if (rowCurr - 1 >= 0)
                     {
                         rowCurr--;
-                        if (IsInOutOfBounder(matrix, rowCurr))
+                    }
+                    else
+                    {
+                        rowCurr = n - 1;
+                    }
+                    if (matrix[rowCurr, colCurr] == 'B')
+                    {
+                        if (rowCurr - 1 >= 0)
                         {
-                            rowCurr = matrix.GetLength(0) - 1;
+                            rowCurr--;
+                        }
+                        else
+                        {
+                            rowCurr = n - 1;
                         }
                     }
-                    if (IsTrap(matrix, rowCurr, colCurr))
+                    if (matrix[rowCurr, colCurr] == 'T')
                     {
-                        rowCurr--;
-                        if (IsInOutOfBounder(matrix, rowCurr))
+                        if (rowCurr - 1 >= 0)
                         {
-                            rowCurr = matrix.GetLength(0) - 1;
+                            rowCurr--;
+                        }
+                        else
+                        {
+                            rowCurr = n - 1;
                         }
                     }
-                    if (IsFinish(matrix, rowCurr, colCurr))
+                    if (matrix[rowCurr, colCurr] == 'F')
                     {
+                        matrix[rowCurr, colCurr] = 'f';
                         Console.WriteLine("Player won!");
                         PrintMatrix(matrix);
                         return;
+                    }
+                    else
+                    {
+                        matrix[rowCurr, colCurr] = 'f';
                     }
                 }
                 if (command == "left")
                 {
                     matrix[rowCurr, colCurr] = '-';
-                    colCurr--;
-                    if (IsInOutOfBounder(matrix, rowCurr))
-                    {
-                        colCurr = matrix.GetLength(1) - 1;
-                    }
-                    if (IsBonus(matrix, rowCurr, colCurr))
+                    if (colCurr - 1 >= 0)
                     {
                         colCurr--;
-                        if (IsInOutOfBounder(matrix, colCurr))
+                    }
+                    else
+                    {
+                        colCurr = n - 1;
+                    }
+                    if (matrix[rowCurr, colCurr] == 'B')
+                    {
+                        if (colCurr - 1 >= 0)
                         {
-                            colCurr = matrix.GetLength(1) - 1;
+                            colCurr--;
                         }
+                        else
+                        {
+                            colCurr = n - 1;
+                        }
+                    }
+                    if (matrix[rowCurr, colCurr] == 'T')
+                    {
+                        if (colCurr - 1 >= 0)
+                        {
+                            colCurr--;
+                        }
+                        else
+                        {
+                            colCurr = n - 1;
+                        }
+                    }
 
-                    }
-                    if (IsTrap(matrix, rowCurr, colCurr))
+                    if (matrix[rowCurr, colCurr] == 'F')
                     {
-                        colCurr--;
-                        if (IsInOutOfBounder(matrix, colCurr))
-                        {
-                            colCurr = matrix.GetLength(1) - 1;
-                        }
-                    }
-                    if (IsFinish(matrix, rowCurr, colCurr))
-                    {
+                        matrix[rowCurr, colCurr] = 'f';
                         Console.WriteLine("Player won!");
                         PrintMatrix(matrix);
                         return;
+                    }
+                    else
+                    {
+                        matrix[rowCurr, colCurr] = 'f';
                     }
                 }
                 if (command == "right")
                 {
                     matrix[rowCurr, colCurr] = '-';
-                    colCurr++;
-                    if (IsInOutOfBounder(matrix, rowCurr))
-                    {
-                        colCurr = matrix.GetLength(1) - 1;
-                    }
-                    if (IsBonus(matrix, rowCurr, colCurr))
+                    if (colCurr + 1 < n)
                     {
                         colCurr++;
-                        if (IsInOutOfBounder(matrix, colCurr))
+                    }
+                    else
+                    {
+                        colCurr = 0;
+                    }
+                    if (matrix[rowCurr, colCurr] == 'B')
+                    {
+                        if (colCurr + 1 < n)
                         {
-                            colCurr = matrix.GetLength(1) - 1;
+                            colCurr++;
+                        }
+                        else
+                        {
+                            colCurr = 0;
                         }
                     }
-                    if (IsTrap(matrix, rowCurr, colCurr))
+                    if (matrix[rowCurr, colCurr] == 'T')
                     {
-                        colCurr--;
-                        if (IsInOutOfBounder(matrix, colCurr))
+                        if (colCurr - 1 >= 0)
                         {
-                            colCurr = matrix.GetLength(1) - 1;
+                            colCurr--;
+                        }
+                        else
+                        {
+                            colCurr = n - 1;
                         }
                     }
-                    if (IsFinish(matrix, rowCurr, colCurr))
+                    if (matrix[rowCurr, colCurr] == 'F')
                     {
+                        matrix[rowCurr, colCurr] = 'f';
                         Console.WriteLine("Player won!");
                         PrintMatrix(matrix);
                         return;
+                    }
+                    else
+                    {
+                        matrix[rowCurr, colCurr] = 'f';
                     }
                 }
             }
 
             Console.WriteLine("Player lost!");
-            matrix[rowCurr, colCurr] = 'f';
             PrintMatrix(matrix);
         }
 
@@ -181,45 +239,5 @@ namespace _02._Re_Volt
             }
         }
 
-        public static bool IsInOutOfBounder(char[,] matrix, int n)
-        {
-            if (n > matrix.GetLength(0) - 1 || n < 0)
-            {
-                return true;
-            }
-            return false;
-        }
-
-        public static bool IsBonus(char[,] matrix, int rowStart, int colStart)
-        {
-            if (matrix[rowStart, colStart] == 'B')
-            {
-                matrix[rowStart, colStart] = 'B';
-                return true;
-            }
-            return false;
-        }
-
-        public static bool IsFinish(char[,] matrix, int rowStart, int colStart)
-        {
-            if (matrix[rowStart, colStart] == 'F')
-            {
-                matrix[rowStart, colStart] = 'f';
-                return true;
-            }
-            return false;
-
-        }
-
-        public static bool IsTrap(char[,] matrix, int rowStart, int colStart)
-        {
-            if (matrix[rowStart, colStart] == 'T')
-            {
-                matrix[rowStart, colStart] = 'T';
-                return true;
-            }
-
-            return false;
-        }
     }
 }
