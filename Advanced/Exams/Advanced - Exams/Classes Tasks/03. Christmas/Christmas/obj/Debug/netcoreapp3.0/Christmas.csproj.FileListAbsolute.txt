@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Christmas\Christmas\bin\Debug\netcoreapp3.0\Christmas.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Christmas\Christmas\bin\Debug\netcoreapp3.0\Christmas.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Christmas\Christmas\bin\Debug\netcoreapp3.0\Christmas.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Christmas\Christmas\bin\Debug\netcoreapp3.0\Christmas.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Christmas\Christmas\bin\Debug\netcoreapp3.0\Christmas.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Christmas\Christmas\bin\Debug\netcoreapp3.0\Christmas.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Christmas\Christmas\obj\Debug\netcoreapp3.0\Christmas.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Christmas\Christmas\obj\Debug\netcoreapp3.0\Christmas.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Christmas\Christmas\obj\Debug\netcoreapp3.0\Christmas.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Christmas\Christmas\obj\Debug\netcoreapp3.0\Christmas.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\Classes Tasks\03. Christmas\Christmas\obj\Debug\netcoreapp3.0\Christmas.pdb

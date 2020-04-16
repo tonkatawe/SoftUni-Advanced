@@ -51,21 +51,23 @@ namespace _02._Present_Delivery
                 //I am not sure but might be I have to make 'if' for matrix`s boundary per each movement. Firstly I`ll skip this.
                 else if (command == "up")
                 {
-                    matrix[rowStart, colStart] = "-";
+
                     rowStart--;
+                //    matrix[rowStart, colStart] = "S";
+                    matrix[rowStart + 1, colStart] = "-";
                     //    TaskLogical(matrix, rowStart, colStart, countOfPresents);
                     if (matrix[rowStart, colStart] == "X")
                     {
-                        matrix[rowStart, colStart] = "-";
+                        matrix[rowStart, colStart] = "S";
                     }
                     else if (matrix[rowStart, colStart] == "V")
                     {
-                        matrix[rowStart, colStart] = "-";
+                        matrix[rowStart, colStart] = "S";
                         countOfPresents--;
                     }
                     else if (matrix[rowStart, colStart] == "C")
                     {
-                        matrix[rowStart, colStart] = "-";
+                        matrix[rowStart, colStart] = "S";
                         for (int i = 0; i < 4; i++)
                         {
                             if (matrix[rowStart + 1, colStart] == "X" || matrix[rowStart + 1, colStart] == "V")
@@ -98,21 +100,21 @@ namespace _02._Present_Delivery
                 }
                 else if (command == "down")
                 {
-                    matrix[rowStart, colStart] = "-";
                     rowStart++;
-                    //     TaskLogical(matrix, rowStart, colStart, countOfPresents);
+                //    matrix[rowStart, colStart] = "S";
+                    matrix[rowStart - 1, colStart] = "-";
                     if (matrix[rowStart, colStart] == "X")
                     {
-                        matrix[rowStart, colStart] = "-";
+                        matrix[rowStart, colStart] = "S";
                     }
                     else if (matrix[rowStart, colStart] == "V")
                     {
-                        matrix[rowStart, colStart] = "-";
+                        matrix[rowStart, colStart] = "S";
                         countOfPresents--;
                     }
                     else if (matrix[rowStart, colStart] == "C")
                     {
-                        matrix[rowStart, colStart] = "-";
+                        matrix[rowStart, colStart] = "S";
                         for (int i = 0; i < 4; i++)
                         {
                             if (matrix[rowStart + 1, colStart] == "X" || matrix[rowStart + 1, colStart] == "V")
@@ -145,21 +147,22 @@ namespace _02._Present_Delivery
                 }
                 else if (command == "left")
                 {
-                    matrix[rowStart, colStart] = "-";
                     colStart--;
-                    //   TaskLogical(matrix, rowStart, colStart, countOfPresents);
+              //      matrix[rowStart, colStart] = "S";
+                    matrix[rowStart, colStart+1] = "-";
+                   
                     if (matrix[rowStart, colStart] == "X")
                     {
-                        matrix[rowStart, colStart] = "-";
+                        matrix[rowStart, colStart] = "S";
                     }
                     else if (matrix[rowStart, colStart] == "V")
                     {
-                        matrix[rowStart, colStart] = "-";
+                        matrix[rowStart, colStart] = "S";
                         countOfPresents--;
                     }
                     else if (matrix[rowStart, colStart] == "C")
                     {
-                        matrix[rowStart, colStart] = "-";
+                        matrix[rowStart, colStart] = "S";
                         for (int i = 0; i < 4; i++)
                         {
                             if (matrix[rowStart + 1, colStart] == "X" || matrix[rowStart + 1, colStart] == "V")
@@ -192,21 +195,21 @@ namespace _02._Present_Delivery
                 }
                 else if (command == "right")
                 {
-                    matrix[rowStart, colStart] = "-";
                     colStart++;
-                    //   TaskLogical(matrix, rowStart, colStart, countOfPresents);
+              //      matrix[rowStart, colStart] = "S";
+                    matrix[rowStart, colStart-1] = "-";
                     if (matrix[rowStart, colStart] == "X")
                     {
-                        matrix[rowStart, colStart] = "-";
+                        matrix[rowStart, colStart] = "S";
                     }
                     else if (matrix[rowStart, colStart] == "V")
                     {
-                        matrix[rowStart, colStart] = "-";
+                        matrix[rowStart, colStart] = "S";
                         countOfPresents--;
                     }
                     else if (matrix[rowStart, colStart] == "C")
                     {
-                        matrix[rowStart, colStart] = "-";
+                        matrix[rowStart, colStart] = "S";
                         for (int i = 0; i < 4; i++)
                         {
                             if (matrix[rowStart + 1, colStart] == "X" || matrix[rowStart + 1, colStart] == "V")
@@ -239,7 +242,6 @@ namespace _02._Present_Delivery
                 }
             }
 
-            matrix[rowStart, colStart] = "S";
             if (countOfPresents == 0)
             {
                 Console.WriteLine("Santa ran out of presents!");

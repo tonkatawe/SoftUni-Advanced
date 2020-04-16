@@ -9,19 +9,24 @@ namespace Guild
     public class Guild
     {
         private List<Player> players;
+
+        private Guild()
+        {
+            this.players = new List<Player>();
+        }
         public Guild(string name, int capacity)
+        : this()
         {
             this.Name = name;
             this.Capacity = capacity;
-            this.players = new List<Player>(); //here might be have to implement capacity in this list 
-            this.Count++;
+
         }
         public string Name { get; set; }
         public int Capacity { get; set; }
-        public int Count { get; set; }
+        public int Count => this.players.Count;
         public void AddPlayer(Player player)
         {
-            if (players.Count < this.Capacity && !players.Any(x => x.Name == player.Name))
+            if (players.Count + 1 <= this.Capacity)
             {
                 this.players.Add(player);
             }
@@ -29,64 +34,54 @@ namespace Guild
 
         public bool RemovePlayer(string name)
         {
-            foreach (var player in this.players)
+            var player = this.players.FirstOrDefault(p => p.Name == name);
+            if (player.Name != null)
             {
-                if (player.Name == name)
-                {
-                    this.players.Remove(player);
-                    return true;
-                    this.Count++;
-                }
+                this.players.Remove(player);
+                return true;
+
             }
+
             return false;
         }
 
         public void PromotePlayer(string name)
         {
-            foreach (var player in this.players.Where(x =>x.Name == name))
+            var player = this.players.FirstOrDefault(p => p.Name == name && p.Rank != "Member");
+            if (player != null)
             {
-                if (player.Name == name && player.Rank != "Member") //here migh be checked and use return method for first name;
-                {
-                    player.Rank = "Member";
-                    break;
-                }
+                player.Rank = "Member";
             }
+
         }
 
         public void DemotePlayer(string name)
         {
-            foreach (var player in this.players.Where(x=> x.Name == name))
+            var player = this.players.FirstOrDefault(p => p.Name == name && p.Rank != "Trial");
+            if (player != null)
             {
-                if (player.Name == name && player.Rank != "Trial") //here migh be checked and use return method for first name;
-                {
-                    player.Rank = "Trial";
-                    break;
-                }
+                player.Rank = "Trial";
             }
+
         }
         public Player[] KickPlayersByClass(string classtype)
         {
-            var currentList = new List<Player>();
-            for (int i = 0; i < this.players.Count; i++)
-            {
-
-                if (this.players[i].Class == classtype)
-                {
-                    currentList.Add(this.players[i]);
-                    this.players.Remove(this.players[i]);
-                }
-            }
-
-            return currentList.ToArray();
+            var players = this.players.Where(p => p.Class == classtype)
+                .ToArray();
+            this.players.RemoveAll(p => p.Class == classtype);
+            return players;
         }
 
-        public void Report()
+        public string Report()
         {
-            Console.WriteLine($"Players in the guild: {this.Name}");
+            var result = new StringBuilder();
+            result.AppendLine($"Players in the guild: {this.Name}");
             foreach (var player in this.players)
             {
-                Console.WriteLine(player);
+                result.AppendLine(player.ToString());
             }
+
+            return result.ToString().TrimEnd();
         }
     }
 }

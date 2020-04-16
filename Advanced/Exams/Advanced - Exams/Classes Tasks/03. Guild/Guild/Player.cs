@@ -6,13 +6,17 @@ namespace Guild
 {
     public class Player
     {
-        public Player(string name, string classtype)
+        private Player()
+        {
 
+            this.Rank = "Trial";
+            this.Description = "n/a";
+        }
+        public Player(string name, string classtype)
+            : this()
         {
             this.Name = name;
             this.Class = classtype;
-            this.Rank = "Trial";
-            this.Description = "n/a";
         }
         public string Name { get; set; }
         public string Class { get; set; }
