@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\2. Book Worm\bin\Debug\netcoreapp3.1\2. Book Worm.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\2. Book Worm\bin\Debug\netcoreapp3.1\2. Book Worm.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\2. Book Worm\bin\Debug\netcoreapp3.1\2. Book Worm.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\2. Book Worm\bin\Debug\netcoreapp3.1\2. Book Worm.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\2. Book Worm\bin\Debug\netcoreapp3.1\2. Book Worm.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\2. Book Worm\bin\Debug\netcoreapp3.1\2. Book Worm.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\2. Book Worm\obj\Debug\netcoreapp3.1\2. Book Worm.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\2. Book Worm\obj\Debug\netcoreapp3.1\2. Book Worm.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\2. Book Worm\obj\Debug\netcoreapp3.1\2. Book Worm.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\2. Book Worm\obj\Debug\netcoreapp3.1\2. Book Worm.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\2. Book Worm\obj\Debug\netcoreapp3.1\2. Book Worm.pdb

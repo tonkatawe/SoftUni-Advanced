@@ -23,54 +23,58 @@ namespace _01._Dating_App
 
             while (males.Count != 0 && females.Count != 0)
             {
-                if (males.Any())
+                var male = males.Peek();
+                var female = females.Peek();
+                //make check for special case
+                if (male > 0 && female > 0)
                 {
-                    if (males.Peek() <= 0)
+                    if (male % 25 == 0)
                     {
-                        males.Pop();
+                        if (males.Count > 1)
+                        {
+                            males.Pop();
+                            males.Pop();
+                        }
+                        else
+                        {
+                            males.Pop();
+                        }
                         continue;
 
                     }
-                }
-                if (females.Any())
-                {
-                    if (females.Peek() <= 0)
+                    if (female % 25 == 0)
                     {
-                        females.Dequeue();
+                        if (females.Count > 1)
+                        {
+                            females.Dequeue();
+                            females.Dequeue();
+                        }
+                        else
+                        {
+                            females.Dequeue();
+                        }
                         continue;
-
                     }
-                }
+                   
 
-                if (males.Count >= 2)
+                }
+                //make zero and below check
+                if (male <= 0 || female <= 0)
                 {
-                    if (males.Peek() % 25 == 0)
+                    if (male <= 0)
                     {
                         males.Pop();
-                        males.Pop();
                     }
-
-                    if (males.Count == 0)
-                    {
-                        break;
-                    }
-                }
-
-                if (females.Count >= 2)
-                {
-                    if (females.Peek() % 25 == 0)
+                    if (female <= 0)
                     {
                         females.Dequeue();
-                        females.Dequeue();
                     }
-
-                    if (females.Count == 0)
-                    {
-                        break;
-                    }
+                    continue;
                 }
 
-                if (males.Peek() == females.Peek())
+
+                //make matches check
+                if (male == female)
                 {
                     males.Pop();
                     females.Dequeue();
@@ -79,9 +83,11 @@ namespace _01._Dating_App
                 else
                 {
                     females.Dequeue();
-                    males.Push(males.Pop() - 2);
+                    male -= 2;
+                    males.Pop();
+                    males.Push(male);
                 }
-                
+
             }
 
             Console.WriteLine($"Matches: {matches}");
