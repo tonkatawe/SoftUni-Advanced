@@ -17,9 +17,7 @@ namespace _1._Rhombus_of_Stars
 
                 PrintRow(size, stCount);
             }
-
-
-
+            
         }
 
         public static void PrintRow(int size, int count)
