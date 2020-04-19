@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\1. Rhombus of Stars\bin\Debug\netcoreapp3.1\1. Rhombus of Stars.exe
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\1. Rhombus of Stars\bin\Debug\netcoreapp3.1\1. Rhombus of Stars.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\1. Rhombus of Stars\bin\Debug\netcoreapp3.1\1. Rhombus of Stars.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\1. Rhombus of Stars\bin\Debug\netcoreapp3.1\1. Rhombus of Stars.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\1. Rhombus of Stars\bin\Debug\netcoreapp3.1\1. Rhombus of Stars.dll
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\1. Rhombus of Stars\bin\Debug\netcoreapp3.1\1. Rhombus of Stars.pdb
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\1. Rhombus of Stars\obj\Debug\netcoreapp3.1\1. Rhombus of Stars.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\1. Rhombus of Stars\obj\Debug\netcoreapp3.1\1. Rhombus of Stars.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\1. Rhombus of Stars\obj\Debug\netcoreapp3.1\1. Rhombus of Stars.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\1. Rhombus of Stars\obj\Debug\netcoreapp3.1\1. Rhombus of Stars.dll
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\1. Rhombus of Stars\obj\Debug\netcoreapp3.1\1. Rhombus of Stars.pdb
