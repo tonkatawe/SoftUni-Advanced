@@ -1,0 +1,10 @@
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.dll
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.pdb
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.dll
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.pdb

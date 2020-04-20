@@ -1,0 +1,10 @@
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\3. StudentSystem\P03_StudentSystem\bin\Debug\netcoreapp2.0\StudentData.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\3. StudentSystem\P03_StudentSystem\bin\Debug\netcoreapp2.0\StudentData.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\3. StudentSystem\P03_StudentSystem\bin\Debug\netcoreapp2.0\StudentData.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\3. StudentSystem\P03_StudentSystem\bin\Debug\netcoreapp2.0\StudentData.dll
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\3. StudentSystem\P03_StudentSystem\bin\Debug\netcoreapp2.0\StudentData.pdb
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\3. StudentSystem\P03_StudentSystem\obj\Debug\netcoreapp2.0\StudentData.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\3. StudentSystem\P03_StudentSystem\obj\Debug\netcoreapp2.0\StudentData.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\3. StudentSystem\P03_StudentSystem\obj\Debug\netcoreapp2.0\StudentData.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\3. StudentSystem\P03_StudentSystem\obj\Debug\netcoreapp2.0\StudentData.dll
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Lab\3. StudentSystem\P03_StudentSystem\obj\Debug\netcoreapp2.0\StudentData.pdb

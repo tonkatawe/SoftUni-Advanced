@@ -1,0 +1,10 @@
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.dll
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.pdb
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.dll
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.pdb
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.csprojAssemblyReference.cache

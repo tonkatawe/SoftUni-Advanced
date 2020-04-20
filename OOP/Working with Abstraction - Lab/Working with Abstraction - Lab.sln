@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Rhombus of Stars", "1. Rhombus of Stars\1. Rhombus of Stars.csproj", "{D42D7F2A-AAA2-4843-A2E6-47E1AB16D9B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Point in Rectangle", "2. Point in Rectangle\2. Point in Rectangle.csproj", "{CC3EBDB6-D91E-434A-8327-B5DC7C8AE25D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Point in Rectangle", "2. Point in Rectangle\2. Point in Rectangle.csproj", "{CC3EBDB6-D91E-434A-8327-B5DC7C8AE25D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

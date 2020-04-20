@@ -1,0 +1,10 @@
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.dll
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.pdb
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.dll
+C:\GitHubRepo\C# Advanced\OOP\Working with Abstraction - Exercise\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.pdb
