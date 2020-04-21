@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Random List\bin\Debug\netcoreapp3.0\Random List.exe
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Random List\bin\Debug\netcoreapp3.0\Random List.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Random List\bin\Debug\netcoreapp3.0\Random List.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Random List\bin\Debug\netcoreapp3.0\Random List.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Random List\bin\Debug\netcoreapp3.0\Random List.dll
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Random List\bin\Debug\netcoreapp3.0\Random List.pdb
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Random List\obj\Debug\netcoreapp3.0\Random List.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Random List\obj\Debug\netcoreapp3.0\Random List.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Random List\obj\Debug\netcoreapp3.0\Random List.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Random List\obj\Debug\netcoreapp3.0\Random List.dll
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Random List\obj\Debug\netcoreapp3.0\Random List.pdb

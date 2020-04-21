@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Multiple Inheritance\bin\Debug\netcoreapp3.0\Farm.exe
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Multiple Inheritance\bin\Debug\netcoreapp3.0\Farm.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Multiple Inheritance\bin\Debug\netcoreapp3.0\Farm.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Multiple Inheritance\bin\Debug\netcoreapp3.0\Farm.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Multiple Inheritance\bin\Debug\netcoreapp3.0\Farm.dll
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Multiple Inheritance\bin\Debug\netcoreapp3.0\Farm.pdb
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Multiple Inheritance\obj\Debug\netcoreapp3.0\Multiple Inheritance.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Multiple Inheritance\obj\Debug\netcoreapp3.0\Multiple Inheritance.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Multiple Inheritance\obj\Debug\netcoreapp3.0\Multiple Inheritance.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Multiple Inheritance\obj\Debug\netcoreapp3.0\Farm.dll
+C:\GitHubRepo\C# Advanced\OOP\Inheritance - Lab\Multiple Inheritance\obj\Debug\netcoreapp3.0\Farm.pdb
