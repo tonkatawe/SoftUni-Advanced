@@ -12,64 +12,64 @@ namespace PersonsInfo
         private decimal salary;
         public Person(string firstName, string lastName, int age, decimal salary)
         {
-            this.firstName = firstName;
-            this.lastName = lastName;
-            this.age = age;
-            this.salary = salary;
+            this.FirstName = firstName;
+            this.LastName = lastName;
+            this.Age = age;
+            this.Salary = salary;
         }
         public string FirstName
         {
             get { return this.firstName; }
-             set
+            set
             {
                 if (value.Length < 3)
                 {
                     throw new ArgumentException("First name cannot contain fewer than 3 symbols!");
                 }
 
-                value = this.firstName;
+                this.firstName = value;
             }
         }
 
         public string LastName
         {
             get { return this.lastName; }
-             set
+            set
             {
                 if (value.Length < 3)
                 {
                     throw new ArgumentException("Last name cannot contain fewer than 3 symbols!");
                 }
 
-                value = this.lastName;
+                this.lastName = value;
             }
         }
 
         public int Age
         {
             get { return this.age; }
-             set
+            set
             {
                 if (value <= 0)
                 {
                     throw new ArgumentException("Age cannot be zero or a negative integer!");
                 }
 
-                value = this.age;
+                this.age = value;
             }
         }
 
         public decimal Salary
         {
             get { return this.salary; }
-             set
+            set
             {
                 if (value < 460)
                 {
                     throw new ArgumentException("Salary cannot be less than 460 leva!");
                 }
 
-                value = this.salary;
+                this.salary = value;
             }
         }
 
