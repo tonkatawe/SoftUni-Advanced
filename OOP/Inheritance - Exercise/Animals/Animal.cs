@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Animals
 {
-    public class Animals
+    public abstract class Animal
     {
-     //   private List<Animals> animals;
+        //   private List<Animals> animals;
         private string name;
         private int age;
         private string gender;
@@ -15,7 +15,7 @@ namespace Animals
         //{
         //    this.animals = new List<Animals>();
         //}
-        public Animals(string name, int age, string gender)
+        public Animal(string name, int age, string gender)
         {
             this.Name = name;
             this.Age = age;
@@ -27,7 +27,7 @@ namespace Animals
             get { return this.name; }
             set
             {
-                if (value == null)
+                if (String.IsNullOrWhiteSpace(value) || value == string.Empty)
                 {
                     throw new ArgumentException("Invalid input!");
                 }
@@ -54,23 +54,31 @@ namespace Animals
         {
             get
             {
+
                 return this.gender;
 
             }
-            set
+            protected set
             {
-                if (value == null)
+                if (String.IsNullOrWhiteSpace(value) || value == string.Empty)
                 {
                     throw new ArgumentException("Invalid input!");
                 }
+
+                this.gender = value;
             }
         }
 
-        public virtual void ProduceSound()
+        public override string ToString()
         {
-            Console.WriteLine();
+            var result = new StringBuilder();
+            result.AppendLine(this.GetType().Name);
+            result.AppendLine($"{this.Name} {this.Age} {this.Gender}");
+            result.AppendLine(this.ProduceSound());
+            return result.ToString().TrimEnd();
+
         }
 
-      
+        public abstract string ProduceSound();
     }
 }

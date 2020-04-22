@@ -8,7 +8,7 @@ namespace Animals
     {
         public static void Main(string[] args)
         {
-            var animals = new List<Animals>();
+            var animals = new List<Animal>();
             while (true)
             {
                 string animalType;
@@ -23,36 +23,48 @@ namespace Animals
                     var data = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).ToArray();
                     var name = data[0];
                     var age = int.Parse(data[1]);
-                    var gender = data[2];
-                    if (animalType == "Dog")
+                    string gender = string.Empty;
+                    if (data.Length == 3)
                     {
-                        animals.Add(new Dog(name, age, gender));
+                        gender = data[2];
                     }
-                    else if (animalType == "Cat")
+
+                    try
                     {
-                        animals.Add(new Cat(name, age, gender));
+
+                        if (animalType == "Dog")
+                        {
+                            animals.Add(new Dog(name, age, gender));
+                        }
+                        else if (animalType == "Cat")
+                        {
+                            animals.Add(new Cat(name, age, gender));
+                        }
+                        else if (animalType == "Frog")
+                        {
+                            animals.Add(new Frog(name, age, gender));
+                        }
+                        else if (animalType == "Kitten")
+                        {
+                            animals.Add(new Kitten(name, age));
+                        }
+                        else if (animalType == "Tomcat")
+                        {
+                            animals.Add(new Tomcat(name, age));
+                        }
                     }
-                    else if (animalType == "Frog")
+                    catch (Exception e)
                     {
-                        animals.Add(new Frog(name, age, gender));
-                    }
-                    else if (animalType == "Kitten")
-                    {
-                        animals.Add(new Kitten(name, age, gender));
-                    }
-                    else if (animalType == "Tomcat")
-                    {
-                        animals.Add(new Tomcat(name, age, gender));
+                        Console.WriteLine(e.Message);
                     }
                 }
 
-                foreach (var animal in animals)
-                {
-                    Console.WriteLine(animal);
-                    Console.WriteLine($"{animal.Name} {animal.Age} {animal.Gender}");
-                    animal.ProduceSound();
-                }
 
+
+            }
+            foreach (var animal in animals)
+            {
+                Console.WriteLine(animal);
 
             }
         }

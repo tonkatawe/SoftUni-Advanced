@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Animals
 {
-   public class Dog:Animals
+   public class Dog:Animal
     {
         public Dog(string name, int age, string gender)
         :base(name, age, gender)
@@ -12,9 +12,9 @@ namespace Animals
 
         }
 
-        public override void ProduceSound()
+        public override string ProduceSound()
         {
-            Console.WriteLine("Woof!");
+            return "Woof!";
         }
     }
 }

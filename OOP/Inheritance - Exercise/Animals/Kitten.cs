@@ -7,8 +7,8 @@ namespace Animals
     public class Kitten : Cat
     {
         private const string KittenGender = "Female";
-        public Kitten(string name, int Age, string gender)
-        : base(name, Age, gender)
+        public Kitten(string name, int Age)
+        : base(name, Age, KittenGender)
         {
 
         }
@@ -21,9 +21,9 @@ namespace Animals
             }
         }
 
-        public override void ProduceSound()
+        public override string ProduceSound()
         {
-            Console.WriteLine("Meow");
+            return "Meow";
         }
     }
 }

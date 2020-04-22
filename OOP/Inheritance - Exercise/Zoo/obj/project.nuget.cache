@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OwhwHms4G0sNgxV49QyjxoCu3cqq/kK3+7o67SazJ7Dv9pt2ePV3R9jn977F7lnKQzEkd8AkWvgFfoGfm1rFxg==",
+  "success": true,
+  "projectFilePath": "C:\\GitHubRepo\\C# Advanced\\OOP\\Inheritance - Exercise\\Zoo\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

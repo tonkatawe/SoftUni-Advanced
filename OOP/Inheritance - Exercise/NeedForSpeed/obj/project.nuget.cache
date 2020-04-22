@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "YQKISivlo6Kr6WlovAE9dKNCAY0LBv3HnO5Qp8ZEjs8PAK6EktkzaJX4f+lBX7seO2dM+A9r6WT4aLLpSNmrBA==",
+  "success": true,
+  "projectFilePath": "C:\\GitHubRepo\\C# Advanced\\OOP\\Inheritance - Exercise\\NeedForSpeed\\NeedForSpeed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
