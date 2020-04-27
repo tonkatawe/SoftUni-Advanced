@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.exe
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.genruntimeconfig.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.csprojAssemblyReference.cache

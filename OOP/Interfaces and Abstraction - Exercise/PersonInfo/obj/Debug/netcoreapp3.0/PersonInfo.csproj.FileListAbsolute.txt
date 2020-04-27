@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.exe
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.0\PersonInfo.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.0\PersonInfo.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.0\PersonInfo.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.0\PersonInfo.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.0\PersonInfo.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.0\PersonInfo.genruntimeconfig.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.0\PersonInfo.csprojAssemblyReference.cache
