@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHubRepo\\C# Advanced\\OOP\\Encapsulation - Lab\\Person\\Person.csproj",
-      "projectName": "Person",
-      "projectPath": "C:\\GitHubRepo\\C# Advanced\\OOP\\Encapsulation - Lab\\Person\\Person.csproj",
+      "projectUniqueName": "C:\\GitHubRepo\\C# Advanced\\OOP\\Encapsulation - Exercise\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
+      "projectName": "FootballTeamGenerator",
+      "projectPath": "C:\\GitHubRepo\\C# Advanced\\OOP\\Encapsulation - Exercise\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
       "packagesPath": "C:\\Users\\tonkatawe\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHubRepo\\C# Advanced\\OOP\\Encapsulation - Lab\\Person\\obj\\",
+      "outputPath": "C:\\GitHubRepo\\C# Advanced\\OOP\\Encapsulation - Exercise\\FootballTeamGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tonkatawe\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHubRepo\\C# Advanced\\OOP\\Encapsulation - Lab\\Person\\Person.csproj",
-      "projectName": "Person",
-      "projectPath": "C:\\GitHubRepo\\C# Advanced\\OOP\\Encapsulation - Lab\\Person\\Person.csproj",
+      "projectUniqueName": "C:\\Users\\tonkatawe\\source\\repos\\Interfaces and Abstraction - Lab\\Shapes\\Shapes.csproj",
+      "projectName": "Shapes",
+      "projectPath": "C:\\Users\\tonkatawe\\source\\repos\\Interfaces and Abstraction - Lab\\Shapes\\Shapes.csproj",
       "packagesPath": "C:\\Users\\tonkatawe\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHubRepo\\C# Advanced\\OOP\\Encapsulation - Lab\\Person\\obj\\",
+      "outputPath": "C:\\Users\\tonkatawe\\source\\repos\\Interfaces and Abstraction - Lab\\Shapes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tonkatawe\\AppData\\Roaming\\NuGet\\NuGet.Config",

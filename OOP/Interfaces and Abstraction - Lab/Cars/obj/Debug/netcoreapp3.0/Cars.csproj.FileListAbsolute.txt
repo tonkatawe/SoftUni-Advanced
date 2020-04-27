@@ -1,0 +1,13 @@
+C:\Users\tonkatawe\source\repos\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.0\Cars.exe
+C:\Users\tonkatawe\source\repos\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.0\Cars.deps.json
+C:\Users\tonkatawe\source\repos\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.0\Cars.runtimeconfig.json
+C:\Users\tonkatawe\source\repos\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.0\Cars.runtimeconfig.dev.json
+C:\Users\tonkatawe\source\repos\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.0\Cars.dll
+C:\Users\tonkatawe\source\repos\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.0\Cars.pdb
+C:\Users\tonkatawe\source\repos\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.0\Cars.csprojAssemblyReference.cache
+C:\Users\tonkatawe\source\repos\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.0\Cars.csproj.CoreCompileInputs.cache
+C:\Users\tonkatawe\source\repos\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.0\Cars.AssemblyInfoInputs.cache
+C:\Users\tonkatawe\source\repos\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.0\Cars.AssemblyInfo.cs
+C:\Users\tonkatawe\source\repos\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.0\Cars.dll
+C:\Users\tonkatawe\source\repos\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.0\Cars.pdb
+C:\Users\tonkatawe\source\repos\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.0\Cars.genruntimeconfig.cache
