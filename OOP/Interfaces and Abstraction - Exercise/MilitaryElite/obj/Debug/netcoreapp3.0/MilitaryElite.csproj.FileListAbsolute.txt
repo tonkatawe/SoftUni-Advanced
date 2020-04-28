@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.exe
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.genruntimeconfig.cache
