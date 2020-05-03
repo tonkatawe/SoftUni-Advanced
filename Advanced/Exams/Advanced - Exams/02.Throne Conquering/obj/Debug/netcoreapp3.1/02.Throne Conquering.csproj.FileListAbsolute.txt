@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02.Throne Conquering\bin\Debug\netcoreapp3.1\02.Throne Conquering.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02.Throne Conquering\bin\Debug\netcoreapp3.1\02.Throne Conquering.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02.Throne Conquering\bin\Debug\netcoreapp3.1\02.Throne Conquering.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02.Throne Conquering\bin\Debug\netcoreapp3.1\02.Throne Conquering.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02.Throne Conquering\bin\Debug\netcoreapp3.1\02.Throne Conquering.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02.Throne Conquering\bin\Debug\netcoreapp3.1\02.Throne Conquering.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02.Throne Conquering\obj\Debug\netcoreapp3.1\02.Throne Conquering.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02.Throne Conquering\obj\Debug\netcoreapp3.1\02.Throne Conquering.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02.Throne Conquering\obj\Debug\netcoreapp3.1\02.Throne Conquering.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02.Throne Conquering\obj\Debug\netcoreapp3.1\02.Throne Conquering.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02.Throne Conquering\obj\Debug\netcoreapp3.1\02.Throne Conquering.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02.Throne Conquering\obj\Debug\netcoreapp3.1\02.Throne Conquering.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02.Throne Conquering\obj\Debug\netcoreapp3.1\02.Throne Conquering.genruntimeconfig.cache

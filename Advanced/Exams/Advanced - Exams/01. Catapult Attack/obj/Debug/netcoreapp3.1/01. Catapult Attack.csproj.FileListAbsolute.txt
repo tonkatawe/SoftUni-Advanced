@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Catapult Attack\bin\Debug\netcoreapp3.1\01. Catapult Attack.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Catapult Attack\bin\Debug\netcoreapp3.1\01. Catapult Attack.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Catapult Attack\bin\Debug\netcoreapp3.1\01. Catapult Attack.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Catapult Attack\bin\Debug\netcoreapp3.1\01. Catapult Attack.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Catapult Attack\bin\Debug\netcoreapp3.1\01. Catapult Attack.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Catapult Attack\bin\Debug\netcoreapp3.1\01. Catapult Attack.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Catapult Attack\obj\Debug\netcoreapp3.1\01. Catapult Attack.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Catapult Attack\obj\Debug\netcoreapp3.1\01. Catapult Attack.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Catapult Attack\obj\Debug\netcoreapp3.1\01. Catapult Attack.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Catapult Attack\obj\Debug\netcoreapp3.1\01. Catapult Attack.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Catapult Attack\obj\Debug\netcoreapp3.1\01. Catapult Attack.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Catapult Attack\obj\Debug\netcoreapp3.1\01. Catapult Attack.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Catapult Attack\obj\Debug\netcoreapp3.1\01. Catapult Attack.genruntimeconfig.cache

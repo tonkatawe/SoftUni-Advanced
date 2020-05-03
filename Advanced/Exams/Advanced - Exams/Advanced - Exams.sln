@@ -13,15 +13,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Present Delivery", "02.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Dating App", "01. Dating App\01. Dating App.csproj", "{27DDFBD2-AB75-4C11-BD51-567FD14AA64E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Book Worm", "2. Book Worm\2. Book Worm.csproj", "{A6EA89D3-2B48-4B17-8EC0-F930E953DF3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Book Worm", "2. Book Worm\2. Book Worm.csproj", "{A6EA89D3-2B48-4B17-8EC0-F930E953DF3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Club Party", "01. Club Party\01. Club Party.csproj", "{550E9A43-BD6C-4577-AE8D-417BC60732CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Club Party", "01. Club Party\01. Club Party.csproj", "{550E9A43-BD6C-4577-AE8D-417BC60732CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Tron Racers", "02. Tron Racers\02. Tron Racers.csproj", "{7EA02F5F-8EF0-4960-A1FA-58E8931FDDD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Tron Racers", "02. Tron Racers\02. Tron Racers.csproj", "{7EA02F5F-8EF0-4960-A1FA-58E8931FDDD2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Heroes", "03. Heroes", "{88814570-6F35-4304-9E98-AE89764CDD45}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heroes", "D:\SoftUni\C# Advanced - september 2019\01. ADVANCED\EXAMS\Advanced Exam - 24 Feb 2019\Heroes.csproj", "{869CF2F4-611E-43A5-9385-6E1B27F6559A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Catapult Attack", "01. Catapult Attack\01. Catapult Attack.csproj", "{D2FCAB64-4231-4014-A63B-6893E0505549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Throne Conquering", "02.Throne Conquering\02.Throne Conquering.csproj", "{D42F426D-613B-4D24-AA46-AE3D1D90E1AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Travel Map", "04. Travel Map\04. Travel Map.csproj", "{15247224-92E0-4AA5-8044-C8D2FD27E258}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,6 +71,18 @@ Global
 		{869CF2F4-611E-43A5-9385-6E1B27F6559A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{869CF2F4-611E-43A5-9385-6E1B27F6559A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{869CF2F4-611E-43A5-9385-6E1B27F6559A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2FCAB64-4231-4014-A63B-6893E0505549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FCAB64-4231-4014-A63B-6893E0505549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FCAB64-4231-4014-A63B-6893E0505549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FCAB64-4231-4014-A63B-6893E0505549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42F426D-613B-4D24-AA46-AE3D1D90E1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42F426D-613B-4D24-AA46-AE3D1D90E1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42F426D-613B-4D24-AA46-AE3D1D90E1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42F426D-613B-4D24-AA46-AE3D1D90E1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15247224-92E0-4AA5-8044-C8D2FD27E258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15247224-92E0-4AA5-8044-C8D2FD27E258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15247224-92E0-4AA5-8044-C8D2FD27E258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15247224-92E0-4AA5-8044-C8D2FD27E258}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
