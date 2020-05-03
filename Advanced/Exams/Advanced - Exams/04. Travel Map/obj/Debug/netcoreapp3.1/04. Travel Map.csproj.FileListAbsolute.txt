@@ -10,3 +10,4 @@ C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Travel Map\obj\Deb
 C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Travel Map\obj\Debug\netcoreapp3.1\04. Travel Map.dll
 C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Travel Map\obj\Debug\netcoreapp3.1\04. Travel Map.pdb
 C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Travel Map\obj\Debug\netcoreapp3.1\04. Travel Map.genruntimeconfig.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Travel Map\obj\Debug\netcoreapp3.1\04. Travel Map.csprojAssemblyReference.cache
