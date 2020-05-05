@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. The Kitchen\bin\Debug\netcoreapp3.1\04. The Kitchen.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. The Kitchen\bin\Debug\netcoreapp3.1\04. The Kitchen.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. The Kitchen\bin\Debug\netcoreapp3.1\04. The Kitchen.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. The Kitchen\bin\Debug\netcoreapp3.1\04. The Kitchen.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. The Kitchen\bin\Debug\netcoreapp3.1\04. The Kitchen.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. The Kitchen\bin\Debug\netcoreapp3.1\04. The Kitchen.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. The Kitchen\obj\Debug\netcoreapp3.1\04. The Kitchen.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. The Kitchen\obj\Debug\netcoreapp3.1\04. The Kitchen.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. The Kitchen\obj\Debug\netcoreapp3.1\04. The Kitchen.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. The Kitchen\obj\Debug\netcoreapp3.1\04. The Kitchen.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. The Kitchen\obj\Debug\netcoreapp3.1\04. The Kitchen.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. The Kitchen\obj\Debug\netcoreapp3.1\04. The Kitchen.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. The Kitchen\obj\Debug\netcoreapp3.1\04. The Kitchen.genruntimeconfig.cache

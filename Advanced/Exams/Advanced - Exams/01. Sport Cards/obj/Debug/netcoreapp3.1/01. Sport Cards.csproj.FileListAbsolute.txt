@@ -1,0 +1,12 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\bin\Debug\netcoreapp3.1\01. Sport Cards.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\bin\Debug\netcoreapp3.1\01. Sport Cards.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\bin\Debug\netcoreapp3.1\01. Sport Cards.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\bin\Debug\netcoreapp3.1\01. Sport Cards.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\bin\Debug\netcoreapp3.1\01. Sport Cards.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\bin\Debug\netcoreapp3.1\01. Sport Cards.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\obj\Debug\netcoreapp3.1\01. Sport Cards.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\obj\Debug\netcoreapp3.1\01. Sport Cards.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\obj\Debug\netcoreapp3.1\01. Sport Cards.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\obj\Debug\netcoreapp3.1\01. Sport Cards.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\obj\Debug\netcoreapp3.1\01. Sport Cards.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\obj\Debug\netcoreapp3.1\01. Sport Cards.genruntimeconfig.cache
