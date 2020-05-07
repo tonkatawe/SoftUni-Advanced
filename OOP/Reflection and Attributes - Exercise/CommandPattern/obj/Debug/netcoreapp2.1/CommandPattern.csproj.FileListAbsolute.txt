@@ -1,0 +1,12 @@
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.dll
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.pdb
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.dll
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.pdb
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.genruntimeconfig.cache

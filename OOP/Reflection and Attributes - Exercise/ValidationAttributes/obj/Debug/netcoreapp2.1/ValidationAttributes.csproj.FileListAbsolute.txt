@@ -1,0 +1,12 @@
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.dll
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.pdb
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.dll
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.pdb
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.genruntimeconfig.cache
