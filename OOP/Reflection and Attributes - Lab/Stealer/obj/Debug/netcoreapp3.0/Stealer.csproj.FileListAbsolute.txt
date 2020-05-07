@@ -1,0 +1,26 @@
+C:\Users\tonkatawe\source\repos\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.0\Stealer.exe
+C:\Users\tonkatawe\source\repos\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.0\Stealer.deps.json
+C:\Users\tonkatawe\source\repos\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.0\Stealer.runtimeconfig.json
+C:\Users\tonkatawe\source\repos\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.0\Stealer.runtimeconfig.dev.json
+C:\Users\tonkatawe\source\repos\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.0\Stealer.dll
+C:\Users\tonkatawe\source\repos\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.0\Stealer.pdb
+C:\Users\tonkatawe\source\repos\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.0\Stealer.csprojAssemblyReference.cache
+C:\Users\tonkatawe\source\repos\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.0\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\tonkatawe\source\repos\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.0\Stealer.AssemblyInfoInputs.cache
+C:\Users\tonkatawe\source\repos\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.0\Stealer.AssemblyInfo.cs
+C:\Users\tonkatawe\source\repos\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.0\Stealer.dll
+C:\Users\tonkatawe\source\repos\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.0\Stealer.pdb
+C:\Users\tonkatawe\source\repos\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.0\Stealer.genruntimeconfig.cache
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.0\Stealer.exe
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.0\Stealer.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.0\Stealer.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.0\Stealer.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.0\Stealer.dll
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.0\Stealer.pdb
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.0\Stealer.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.0\Stealer.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.0\Stealer.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.0\Stealer.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.0\Stealer.dll
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.0\Stealer.pdb
+C:\GitHubRepo\C# Advanced\OOP\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.0\Stealer.genruntimeconfig.cache
