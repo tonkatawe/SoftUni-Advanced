@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jUc1Sp4gqnuEDnJi5N4oAaOwBrSqVzmQ29OyZeylE9XyFEmAeKKT832zNzKFL/vEeNtUZVfkkMxmAk+qUjP+/Q==",
+  "success": true,
+  "projectFilePath": "C:\\GitHubRepo\\C# Advanced\\OOP\\Unit Testing - Lab\\Skeleton\\Skeleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
