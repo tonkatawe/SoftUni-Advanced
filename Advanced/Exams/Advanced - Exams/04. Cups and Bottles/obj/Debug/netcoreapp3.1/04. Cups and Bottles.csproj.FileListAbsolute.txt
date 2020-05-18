@@ -1,0 +1,12 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Cups and Bottles\bin\Debug\netcoreapp3.1\04. Cups and Bottles.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Cups and Bottles\bin\Debug\netcoreapp3.1\04. Cups and Bottles.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Cups and Bottles\bin\Debug\netcoreapp3.1\04. Cups and Bottles.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Cups and Bottles\bin\Debug\netcoreapp3.1\04. Cups and Bottles.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Cups and Bottles\bin\Debug\netcoreapp3.1\04. Cups and Bottles.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Cups and Bottles\bin\Debug\netcoreapp3.1\04. Cups and Bottles.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Cups and Bottles\obj\Debug\netcoreapp3.1\04. Cups and Bottles.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Cups and Bottles\obj\Debug\netcoreapp3.1\04. Cups and Bottles.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Cups and Bottles\obj\Debug\netcoreapp3.1\04. Cups and Bottles.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Cups and Bottles\obj\Debug\netcoreapp3.1\04. Cups and Bottles.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Cups and Bottles\obj\Debug\netcoreapp3.1\04. Cups and Bottles.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\04. Cups and Bottles\obj\Debug\netcoreapp3.1\04. Cups and Bottles.genruntimeconfig.cache
