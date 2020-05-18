@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2D/40PdjSHpuwXZcxhrIdiubpoRvcsXwUSMgzF3zXfcX2xysEKCXkjCG3bpfdNKp/puhHsoZOuhPQFbWw6EXZQ==",
+  "dgSpecHash": "Xwe8/2h/VvnPYigh5dyS8Sz9FfMiwtXeitFzCsKG31plzFVfqxAg/dJUuXD/faFKs3lf+6HDA8PMadydmUnuhA==",
   "success": true,
   "projectFilePath": "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Retake Exam - 16 Apr 2020\\RobotService\\RobotService.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
