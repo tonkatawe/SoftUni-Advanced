@@ -1,0 +1,9 @@
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.dll
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.pdb

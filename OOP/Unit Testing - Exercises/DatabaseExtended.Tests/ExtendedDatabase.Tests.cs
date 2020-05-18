@@ -1,3 +1,5 @@
+using System;
+using ExtendedDatabase;
 using NUnit.Framework;
 
 namespace Tests
@@ -7,12 +9,16 @@ namespace Tests
         [SetUp]
         public void Setup()
         {
+
         }
 
         [Test]
         public void Test1()
         {
-            Assert.Pass();
+
+
+
+
         }
     }
 }

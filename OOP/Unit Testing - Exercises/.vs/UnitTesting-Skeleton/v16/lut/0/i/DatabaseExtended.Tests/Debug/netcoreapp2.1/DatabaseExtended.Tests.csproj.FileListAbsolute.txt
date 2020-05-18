@@ -1,0 +1,2 @@
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\.vs\UnitTesting-Skeleton\v16\lut\0\i\DatabaseExtended.Tests\Debug\netcoreapp2.1\DatabaseExtended.Tests.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\.vs\UnitTesting-Skeleton\v16\lut\0\i\DatabaseExtended.Tests\Debug\netcoreapp2.1\DatabaseExtended.Tests.AssemblyInfo.cs

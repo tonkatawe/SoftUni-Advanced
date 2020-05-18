@@ -1,0 +1,9 @@
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\CarManager\bin\Debug\netcoreapp2.1\CarManager.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\CarManager\bin\Debug\netcoreapp2.1\CarManager.dll
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\CarManager\bin\Debug\netcoreapp2.1\CarManager.pdb
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\CarManager\obj\Debug\netcoreapp2.1\CarManager.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\CarManager\obj\Debug\netcoreapp2.1\CarManager.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\CarManager\obj\Debug\netcoreapp2.1\CarManager.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\CarManager\obj\Debug\netcoreapp2.1\CarManager.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\CarManager\obj\Debug\netcoreapp2.1\CarManager.dll
+C:\GitHubRepo\C# Advanced\OOP\Unit Testing - Exercises\CarManager\obj\Debug\netcoreapp2.1\CarManager.pdb
