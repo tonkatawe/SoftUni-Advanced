@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Miner\bin\Debug\netcoreapp3.1\03. Miner.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Miner\bin\Debug\netcoreapp3.1\03. Miner.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Miner\bin\Debug\netcoreapp3.1\03. Miner.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Miner\bin\Debug\netcoreapp3.1\03. Miner.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Miner\bin\Debug\netcoreapp3.1\03. Miner.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Miner\bin\Debug\netcoreapp3.1\03. Miner.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Miner\obj\Debug\netcoreapp3.1\03. Miner.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Miner\obj\Debug\netcoreapp3.1\03. Miner.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Miner\obj\Debug\netcoreapp3.1\03. Miner.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Miner\obj\Debug\netcoreapp3.1\03. Miner.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Miner\obj\Debug\netcoreapp3.1\03. Miner.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Miner\obj\Debug\netcoreapp3.1\03. Miner.genruntimeconfig.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Miner\obj\Debug\netcoreapp3.1\03. Miner.csprojAssemblyReference.cache

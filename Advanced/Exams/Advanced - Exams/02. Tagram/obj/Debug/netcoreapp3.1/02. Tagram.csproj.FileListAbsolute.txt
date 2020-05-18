@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Tagram\bin\Debug\netcoreapp3.1\02. Tagram.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Tagram\bin\Debug\netcoreapp3.1\02. Tagram.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Tagram\bin\Debug\netcoreapp3.1\02. Tagram.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Tagram\bin\Debug\netcoreapp3.1\02. Tagram.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Tagram\bin\Debug\netcoreapp3.1\02. Tagram.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Tagram\bin\Debug\netcoreapp3.1\02. Tagram.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Tagram\obj\Debug\netcoreapp3.1\02. Tagram.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Tagram\obj\Debug\netcoreapp3.1\02. Tagram.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Tagram\obj\Debug\netcoreapp3.1\02. Tagram.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Tagram\obj\Debug\netcoreapp3.1\02. Tagram.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Tagram\obj\Debug\netcoreapp3.1\02. Tagram.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Tagram\obj\Debug\netcoreapp3.1\02. Tagram.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Tagram\obj\Debug\netcoreapp3.1\02. Tagram.genruntimeconfig.cache
