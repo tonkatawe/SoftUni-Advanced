@@ -1,10 +1,10 @@
-﻿namespace RobotService.Models.Robots
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace RobotService.Models.Robots
 {
-  public  class HouseholdRobot:Robot
+    class HouseholdRobot
     {
-        public HouseholdRobot(string name, int energy, int happiness, int procedureTime)
-            : base(name, energy, happiness, procedureTime)
-        {
-        }
     }
 }

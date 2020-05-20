@@ -1,24 +1,10 @@
 ﻿using System;
-using RobotService.Models.Robots.Contracts;
+using System.Collections.Generic;
+using System.Text;
+
 namespace RobotService.Models.Procedures
 {
-    public class Chip:Procedure
+    class Chip
     {
-        public override void DoService(IRobot robot, int procedureTime)
-        {
-            base.DoService(robot, procedureTime);
-            foreach (var member in this.Robots)
-            {
-                if (!member.IsChipped)
-                {
-                    member.IsChipped = true;
-                    member.Happiness -= 5;
-                }
-                else
-                {
-                    throw new ArgumentException($"{member.Name} is already chipped");
-                }
-            }
-        }
     }
 }

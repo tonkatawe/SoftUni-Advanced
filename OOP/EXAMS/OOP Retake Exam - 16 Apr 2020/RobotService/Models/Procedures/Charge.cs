@@ -1,19 +1,10 @@
-﻿
-
-using RobotService.Models.Robots.Contracts;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace RobotService.Models.Procedures
 {
-   public class Charge:Procedure
+    class Charge
     {
-        public override void DoService(IRobot robot, int procedureTime)
-        {
-            base.DoService(robot, procedureTime);
-            foreach (var member in this.Robots)
-            {
-                member.Happiness += 12;
-                member.Energy += 10;
-            }
-        }
     }
 }

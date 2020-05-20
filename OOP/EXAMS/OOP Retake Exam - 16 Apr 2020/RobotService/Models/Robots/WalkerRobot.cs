@@ -1,12 +1,10 @@
-﻿
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace RobotService.Models.Robots
 {
-    public class WalkerRobot : Robot
+    class WalkerRobot
     {
-        public WalkerRobot(string name, int energy, int happiness, int procedureTime)
-            : base(name, energy, happiness, procedureTime)
-        {
-        }
     }
 }

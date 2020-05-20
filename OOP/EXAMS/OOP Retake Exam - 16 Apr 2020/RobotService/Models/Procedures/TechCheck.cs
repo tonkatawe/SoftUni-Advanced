@@ -1,22 +1,10 @@
-﻿
-using RobotService.Models.Robots.Contracts;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace RobotService.Models.Procedures
 {
-   public class TechCheck:Procedure
+    class TechCheck
     {
-        public override void DoService(IRobot robot, int procedureTime)
-        {
-            base.DoService(robot, procedureTime);
-            foreach (var member in this.Robots)
-            {
-                if (!member.IsChecked)
-                {
-                    member.IsChecked = true;
-                }
-
-                member.Energy -= 8;
-            }
-        }
     }
 }
