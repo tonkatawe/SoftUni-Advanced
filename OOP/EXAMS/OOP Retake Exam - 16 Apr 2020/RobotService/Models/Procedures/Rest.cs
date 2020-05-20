@@ -1,10 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace RobotService.Models.Procedures
+﻿namespace RobotService.Models.Procedures
 {
-    class Rest
+    using RobotService.Models.Robots.Contracts;
+
+    public class Rest : Procedure
     {
+        private const int DecreaseHappiness = 3;
+        private const int IncreaseEnergy = 10;
+
+        public override void DoService(IRobot robot, int procedureTime)
+        {
+            base.DoService(robot, procedureTime);
+            robot.Happiness -= DecreaseHappiness;
+            robot.Energy += IncreaseEnergy;
+        }
     }
 }

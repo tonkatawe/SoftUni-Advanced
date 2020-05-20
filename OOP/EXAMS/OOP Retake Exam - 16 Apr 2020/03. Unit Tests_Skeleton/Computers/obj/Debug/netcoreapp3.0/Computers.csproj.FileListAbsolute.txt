@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.exe
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.deps.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.pdb
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.pdb
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.genruntimeconfig.cache

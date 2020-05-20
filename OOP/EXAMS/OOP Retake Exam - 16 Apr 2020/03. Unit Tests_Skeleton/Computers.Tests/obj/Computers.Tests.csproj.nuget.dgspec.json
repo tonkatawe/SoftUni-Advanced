@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Retake Exam - 16 Apr 2020\\03. Unit Tests_Skeleton\\Computers.Tests\\Computers.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Retake Exam - 16 Apr 2020\\03. Unit Tests_Skeleton\\Computers.Tests\\Computers.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Retake Exam - 16 Apr 2020\\03. Unit Tests_Skeleton\\Computers.Tests\\Computers.Tests.csproj",
+        "projectName": "Computers.Tests",
+        "projectPath": "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Retake Exam - 16 Apr 2020\\03. Unit Tests_Skeleton\\Computers.Tests\\Computers.Tests.csproj",
+        "packagesPath": "C:\\Users\\tonkatawe\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Retake Exam - 16 Apr 2020\\03. Unit Tests_Skeleton\\Computers.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tonkatawe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "JetBrains.DotMemoryUnit": {
+              "target": "Package",
+              "version": "[3.1.20200127.214830, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
