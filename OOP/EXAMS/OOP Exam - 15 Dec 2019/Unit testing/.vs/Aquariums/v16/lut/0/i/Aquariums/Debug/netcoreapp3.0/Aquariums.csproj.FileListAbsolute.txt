@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.exe
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.deps.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.csproj.CopyComplete
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache

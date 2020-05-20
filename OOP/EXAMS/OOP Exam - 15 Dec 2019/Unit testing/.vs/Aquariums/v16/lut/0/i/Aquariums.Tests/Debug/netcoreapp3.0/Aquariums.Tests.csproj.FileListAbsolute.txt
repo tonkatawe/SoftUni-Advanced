@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.exe
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\nunit.engine.netstandard.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Mono.Cecil.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.deps.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.csproj.CopyComplete
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 15 Dec 2019\Unit testing\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.0\Aquariums.Tests.genruntimeconfig.cache
