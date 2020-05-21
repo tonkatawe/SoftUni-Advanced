@@ -11,7 +11,7 @@
 
     public abstract class Procedure : IProcedure
     {
-        private ICollection<IRobot> robots;
+        protected ICollection<IRobot> robots;
 
         protected Procedure()
         {
@@ -37,6 +37,7 @@
             }
 
             robot.ProcedureTime -= procedureTime;
+            this.robots.Add(robot);
         }
     }
 }

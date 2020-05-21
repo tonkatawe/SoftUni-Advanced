@@ -1,6 +1,7 @@
 ﻿
 
 
+using System.Collections.Generic;
 using RobotService.Models.Procedures.Contracts;
 
 namespace RobotService.Core
@@ -24,6 +25,7 @@ namespace RobotService.Core
         public Controller()
         {
             this.garage = new Garage();
+            
             
         }
         public string Manufacture(string robotType, string name, int energy, int happiness, int procedureTime)
@@ -64,8 +66,8 @@ namespace RobotService.Core
 
             var robot = GetRobotByItsName(robotName);
             //todo: Here I am not sure :)
-            var chip = new Chip();
-            chip.DoService(robot, procedureTime);
+            this.procedure = new Chip();
+            this.procedure.DoService(robot, procedureTime);
             var result = String.Format(OutputMessages.ChipProcedure, robotName);
             return result;
         }
@@ -84,8 +86,8 @@ namespace RobotService.Core
             }
 
             var robot = GetRobotByItsName(robotName);
-            var techCheck = new TechCheck();
-            techCheck.DoService(robot, procedureTime);
+            this.procedure = new TechCheck();
+            this.procedure.DoService(robot, procedureTime);
             var result = String.Format(OutputMessages.TechCheckProcedure, robotName);
             return result;
         }
@@ -98,8 +100,8 @@ namespace RobotService.Core
                 throw new ArgumentException(exMsg);
             }
             var robot = GetRobotByItsName(robotName);
-            var rest = new Rest();
-            rest.DoService(robot, procedureTime);
+            this.procedure = new Rest();
+            this.procedure.DoService(robot, procedureTime);
             var result = String.Format(OutputMessages.RestProcedure, robotName);
             return result;
         }
@@ -112,8 +114,8 @@ namespace RobotService.Core
                 throw new ArgumentException(exMsg);
             }
             var robot = GetRobotByItsName(robotName);
-            var work = new Work();
-            work.DoService(robot, procedureTime);
+           this.procedure = new Work();
+            this.procedure.DoService(robot, procedureTime);
             var result = String.Format(OutputMessages.WorkProcedure, robotName, procedureTime);
             return result;
         }
@@ -126,8 +128,8 @@ namespace RobotService.Core
                 throw new ArgumentException(exMsg);
             }
             var robot = GetRobotByItsName(robotName);
-            var charge = new Charge();
-            charge.DoService(robot, procedureTime);
+            this.procedure = new Charge();
+            this.procedure.DoService(robot, procedureTime);
             var result = String.Format(OutputMessages.ChargeProcedure, robotName);
             return result;
         }
@@ -140,8 +142,8 @@ namespace RobotService.Core
                 throw new ArgumentException(exMsg);
             }
             var robot = GetRobotByItsName(robotName);
-            var polish = new Polish();
-            polish.DoService(robot, procedureTime);
+            this.procedure = new Polish();
+            this.procedure.DoService(robot, procedureTime);
             var result = String.Format(OutputMessages.PolishProcedure, robotName);
             return result;
         }
@@ -172,9 +174,9 @@ namespace RobotService.Core
         {
             var result = new StringBuilder();
             result.AppendLine(procedureType);
-            foreach (var robot in this.garage.Robots.)
+            foreach (var robot in this.procedure)
             {
-                result.AppendLine(robot.Value.ToString());
+                result.AppendLine(robot.ToString());
             }
 
             return result.ToString().TrimEnd();
