@@ -1,0 +1,15 @@
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 12 Apr 2020\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\Robots.exe
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 12 Apr 2020\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 12 Apr 2020\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 12 Apr 2020\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\nunit.engine.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 12 Apr 2020\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\nunit.engine.api.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 12 Apr 2020\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.deps.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 12 Apr 2020\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 12 Apr 2020\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 12 Apr 2020\UnitTesting\.vs\Robots\v16\lut\0\b\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 12 Apr 2020\UnitTesting\.vs\Robots\v16\lut\0\i\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 12 Apr 2020\UnitTesting\.vs\Robots\v16\lut\0\i\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 12 Apr 2020\UnitTesting\.vs\Robots\v16\lut\0\i\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 12 Apr 2020\UnitTesting\.vs\Robots\v16\lut\0\i\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.csproj.CopyComplete
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 12 Apr 2020\UnitTesting\.vs\Robots\v16\lut\0\i\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 12 Apr 2020\UnitTesting\.vs\Robots\v16\lut\0\i\Robots.Tests\Debug\netcoreapp3.0\Robots.Tests.genruntimeconfig.cache
