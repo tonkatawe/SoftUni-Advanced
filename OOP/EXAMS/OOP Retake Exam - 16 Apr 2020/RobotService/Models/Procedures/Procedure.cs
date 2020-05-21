@@ -15,12 +15,14 @@
 
         protected Procedure()
         {
-            this.robots = new List<IRobot>();
+            this.robots = new HashSet<IRobot>();
         }
         public string History()
         {
             var result = new StringBuilder();
+
             result.AppendLine(this.GetType().Name);
+
             foreach (var robot in this.robots)
             {
                 result.AppendLine($"{robot.ToString()}");
@@ -28,16 +30,15 @@
 
             return result.ToString().TrimEnd();
         }
-        //todo: I'm not sure in this procedure :)
         public virtual void DoService(IRobot robot, int procedureTime)
         {
-            if (robot.ProcedureTime <= procedureTime)
+            if (robot.ProcedureTime < procedureTime)
             {
                 throw new ArgumentException(ExceptionMessages.InsufficientProcedureTime);
             }
 
             robot.ProcedureTime -= procedureTime;
-            this.robots.Add(robot);
+            
         }
     }
 }

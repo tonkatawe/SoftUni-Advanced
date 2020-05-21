@@ -1,11 +1,18 @@
-﻿namespace RobotService.Models.Procedures
+﻿
+namespace RobotService.Models.Procedures
 {
     using System;
+    using System.Collections.Generic;
     using RobotService.Models.Robots.Contracts;
     using RobotService.Utilities.Messages;
     public class Chip : Procedure
     {
         private const int DecreaseHappiness = 5;
+
+        public Chip()
+        {
+            this.robots = new HashSet<IRobot>();
+        }
         public override void DoService(IRobot robot, int procedureTime)
         {
             base.DoService(robot, procedureTime);
@@ -15,8 +22,9 @@
                 throw new ArgumentException(exMsg);
             }
 
-            robot.IsChipped = true;
             robot.Happiness -= DecreaseHappiness;
+            robot.IsChipped = true;
+            this.robots.Add(robot);
         }
     }
 }

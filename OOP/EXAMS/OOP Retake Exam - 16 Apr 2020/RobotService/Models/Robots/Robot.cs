@@ -1,14 +1,11 @@
-﻿using System;
-using System.Text;
-using RobotService.Utilities.Messages;
-
-namespace RobotService.Models.Robots
+﻿namespace RobotService.Models.Robots
 {
+    using System;
+    using System.Text;
+    using RobotService.Utilities.Messages;
     using RobotService.Models.Robots.Contracts;
     public abstract class Robot : IRobot
-
     {
-        
         private int happiness;
         private int energy;
 
@@ -21,7 +18,7 @@ namespace RobotService.Models.Robots
             this.Owner = "Service";
         }
 
-        public string Name { get; private set; }
+        public string Name { get; }
 
         public int Happiness
         {
@@ -53,7 +50,7 @@ namespace RobotService.Models.Robots
 
         public int ProcedureTime { get; set; }
 
-        public string Owner { get;  set; }
+        public string Owner { get; set; }
 
         public bool IsBought { get; set; }
 
