@@ -11,11 +11,12 @@ namespace CounterStrike.Models.Guns
 
         public override int Fire()
         {
-            if (this.BulletsCount == 0)
+            if (this.BulletsCount >= PistolStrikeAtTime)
             {
-                return 0;
+                this.BulletsCount -= PistolStrikeAtTime;
+                return PistolStrikeAtTime;
             }
-            return PistolStrikeAtTime;
+            return 0;
         }
     }
 }

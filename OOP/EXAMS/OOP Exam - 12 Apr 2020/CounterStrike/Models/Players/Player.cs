@@ -18,7 +18,7 @@
             this.Username = username;
             this.Health = health;
             this.Armor = armor;
-            this.Gun = gun;
+            this.gun = gun;
         }
         public string Username
         {
@@ -79,7 +79,7 @@
         public bool IsAlive
         {
             get => this.isAlive;
-            private set
+             set
             {
                 if (this.health > 0)
                 {

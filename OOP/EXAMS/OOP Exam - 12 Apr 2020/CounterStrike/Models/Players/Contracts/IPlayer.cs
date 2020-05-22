@@ -12,7 +12,7 @@
 
         IGun Gun { get; }
 
-        bool IsAlive { get; }
+        bool IsAlive { get; set; }
 
         void TakeDamage(int points);
     }

@@ -10,11 +10,12 @@
 
         public override int Fire()
         {
-            if (this.BulletsCount == 0)
+            if (this.BulletsCount >= RifleStrikeAtTime)
             {
-                return 0;
+                this.BulletsCount -= RifleStrikeAtTime;
+                return RifleStrikeAtTime;
             }
-            return RifleStrikeAtTime;
+            return 0;
         }
     }
 }
