@@ -77,8 +77,7 @@ namespace CounterStrike.Core.Contracts
 
         public string StartGame()
         {
-            livePlayers = players
-                .Models.Where(p => p.IsAlive)
+            livePlayers = this.players.Models.Where(p => p.IsAlive)
                 .ToList();
 
             return this.map.Start(this.livePlayers);

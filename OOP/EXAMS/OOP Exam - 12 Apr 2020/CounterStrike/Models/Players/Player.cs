@@ -5,7 +5,7 @@
     using CounterStrike.Models.Guns.Contracts;
     using CounterStrike.Models.Players.Contracts;
 
-   public abstract class Player : IPlayer
+    public abstract class Player : IPlayer
     {
         private string username;
         private int health;
@@ -19,6 +19,7 @@
             this.Health = health;
             this.Armor = armor;
             this.gun = gun;
+            this.isAlive = true;
         }
         public string Username
         {
@@ -79,7 +80,7 @@
         public bool IsAlive
         {
             get => this.isAlive;
-             set
+            set
             {
                 if (this.health > 0)
                 {
@@ -100,7 +101,6 @@
                 this.armor -= points;
                 points -= currentArmor;
             }
-
             if (this.armor <= 0 && points > 0)
             {
                 var currentHealth = this.health;
@@ -108,9 +108,12 @@
                 points -= currentHealth;
             }
 
+
             if (this.health <= 0)
             {
                 this.IsAlive = false;
+                this.health = 0;
+                this.armor = 0;
             }
         }
     }
