@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qq+TpXAuXbxEOOsrOMPf+N4uPMwoALe82oBWKNKzkrS06HtjPAvOLlRn7G2CBATUFWqgvvtZsKRQYG/BBtJP1g==",
+  "success": true,
+  "projectFilePath": "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Exam - 07 Dec 2019\\03. Unit Tests\\TheRace\\TheRace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

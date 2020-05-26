@@ -1,0 +1,2 @@
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 07 Dec 2019\03. Unit Tests\.vs\TheRace\v16\lut\0\i\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 07 Dec 2019\03. Unit Tests\.vs\TheRace\v16\lut\0\i\TheRace.Tests\Debug\netcoreapp2.1\TheRace.Tests.AssemblyInfo.cs

@@ -1,0 +1,9 @@
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 07 Dec 2019\03. Unit Tests\TheRace\bin\Debug\netcoreapp2.1\TheRace.deps.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 07 Dec 2019\03. Unit Tests\TheRace\bin\Debug\netcoreapp2.1\TheRace.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 07 Dec 2019\03. Unit Tests\TheRace\bin\Debug\netcoreapp2.1\TheRace.pdb
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 07 Dec 2019\03. Unit Tests\TheRace\obj\Debug\netcoreapp2.1\TheRace.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 07 Dec 2019\03. Unit Tests\TheRace\obj\Debug\netcoreapp2.1\TheRace.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 07 Dec 2019\03. Unit Tests\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 07 Dec 2019\03. Unit Tests\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 07 Dec 2019\03. Unit Tests\TheRace\obj\Debug\netcoreapp2.1\TheRace.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Exam - 07 Dec 2019\03. Unit Tests\TheRace\obj\Debug\netcoreapp2.1\TheRace.pdb
