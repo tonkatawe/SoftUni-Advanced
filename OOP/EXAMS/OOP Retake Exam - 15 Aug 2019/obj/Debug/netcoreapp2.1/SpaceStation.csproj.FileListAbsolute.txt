@@ -1,0 +1,12 @@
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 15 Aug 2019\bin\Debug\netcoreapp2.1\SpaceStation.deps.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 15 Aug 2019\bin\Debug\netcoreapp2.1\SpaceStation.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 15 Aug 2019\bin\Debug\netcoreapp2.1\SpaceStation.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 15 Aug 2019\bin\Debug\netcoreapp2.1\SpaceStation.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 15 Aug 2019\bin\Debug\netcoreapp2.1\SpaceStation.pdb
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 15 Aug 2019\obj\Debug\netcoreapp2.1\SpaceStation.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 15 Aug 2019\obj\Debug\netcoreapp2.1\SpaceStation.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 15 Aug 2019\obj\Debug\netcoreapp2.1\SpaceStation.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 15 Aug 2019\obj\Debug\netcoreapp2.1\SpaceStation.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 15 Aug 2019\obj\Debug\netcoreapp2.1\SpaceStation.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 15 Aug 2019\obj\Debug\netcoreapp2.1\SpaceStation.pdb
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 15 Aug 2019\obj\Debug\netcoreapp2.1\SpaceStation.genruntimeconfig.cache
