@@ -19,8 +19,8 @@ namespace MXGP.Repositories
         }
         public IRider GetByName(string name)
         {
-            IRider currentMotorcycle = this.riders.FirstOrDefault(x => x.Name == name);
-            return currentMotorcycle;
+            IRider currentRider = this.riders.FirstOrDefault(x => x.Name == name);
+            return currentRider;
         }
 
         public IReadOnlyCollection<IRider> GetAll() => this.riders;

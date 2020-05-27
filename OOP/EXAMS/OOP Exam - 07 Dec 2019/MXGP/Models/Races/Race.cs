@@ -14,7 +14,7 @@
 
         public Race(string race, int laps)
         {
-            this.Name = name;
+            this.Name = race;
             this.Laps = laps;
             this.riders = new List<IRider>();
         }
@@ -56,9 +56,9 @@
                 throw new ArgumentNullException(ExceptionMessages.RiderInvalid);
             }
 
-            if (currentRider.Motorcycle == null)
+            if (rider.Motorcycle == null)
             {
-                var exMsg = String.Format(ExceptionMessages.RiderNotParticipate, currentRider.Name);
+                var exMsg = String.Format(ExceptionMessages.RiderNotParticipate, rider.Name);
                 throw new ArgumentException(exMsg);
             }
 

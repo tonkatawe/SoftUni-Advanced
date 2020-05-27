@@ -17,8 +17,8 @@ namespace MXGP.Repositories
         }
         public IRace GetByName(string name)
         {
-            var currentMotorcycle = this.races.FirstOrDefault(x => x.Name == name);
-            return currentMotorcycle;
+            var currentRace = this.races.FirstOrDefault(x => x.Name == name);
+            return currentRace;
         }
 
         public IReadOnlyCollection<IRace> GetAll() => this.races;

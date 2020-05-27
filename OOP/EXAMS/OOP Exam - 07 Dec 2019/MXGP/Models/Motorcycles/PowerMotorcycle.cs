@@ -14,6 +14,7 @@
             {
                 throw new ArgumentException(string.Format(ExceptionMessages.InvalidHorsePower, horsePower));
             }
+
         }
 
 

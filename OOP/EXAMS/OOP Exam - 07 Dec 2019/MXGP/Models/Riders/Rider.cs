@@ -24,7 +24,7 @@
             {
                 if (String.IsNullOrEmpty(value) || value.Length < 5)
                 {
-                    var exMsg = String.Format(ExceptionMessages.InvalidName, value,5);
+                    var exMsg = String.Format(ExceptionMessages.InvalidName, value, 5);
                     throw new ArgumentException(exMsg);
                 }
 
@@ -35,7 +35,7 @@
         public IMotorcycle Motorcycle
         {
             get => this.motorcycle;
-          private  set
+            private set
             {
                 this.motorcycle = value;
             }
@@ -72,7 +72,7 @@
 
         public void AddMotorcycle(IMotorcycle motorcycle)
         {
-            if (motorcycle != null)
+            if (motorcycle == null)
             {
                 throw new ArgumentNullException(ExceptionMessages.MotorcycleInvalid);
 

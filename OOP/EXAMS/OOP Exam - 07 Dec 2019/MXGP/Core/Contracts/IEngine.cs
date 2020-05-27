@@ -24,7 +24,7 @@ namespace MXGP.Core.Contracts
             while (true)
             {
                 var input = reader.ReadLine().Split();
-                if (input[0] == "Exit")
+                if (input[0] == "End")
                 {
                     Environment.Exit(0);
                 }

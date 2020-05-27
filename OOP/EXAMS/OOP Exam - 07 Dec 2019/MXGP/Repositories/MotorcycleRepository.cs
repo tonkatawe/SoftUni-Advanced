@@ -17,7 +17,9 @@ namespace MXGP.Repositories
         public IMotorcycle GetByName(string name)
         {
             IMotorcycle currentMotorcycle = this.motorcycles.FirstOrDefault(x => x.Model == name);
+
             return currentMotorcycle;
+
         }
 
         public IReadOnlyCollection<IMotorcycle> GetAll() => this.motorcycles;

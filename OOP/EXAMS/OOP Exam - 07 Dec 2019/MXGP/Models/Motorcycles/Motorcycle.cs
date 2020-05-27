@@ -38,7 +38,7 @@
         }
         public double CubicCentimeters
         {
-            get => this.CubicCentimeters;
+            get => this.cubicCentimeters;
             private set
             {
                 this.cubicCentimeters = value;
@@ -47,7 +47,7 @@
 
         public double CalculateRacePoints(int laps)
         {
-            var result = (this.CubicCentimeters / this.HorsePower) * laps;
+            var result = this.CubicCentimeters / this.HorsePower * laps;
             return result;
         }
     }
