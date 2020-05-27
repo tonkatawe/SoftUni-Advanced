@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.exe
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.deps.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.pdb
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.pdb
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.genruntimeconfig.cache
