@@ -59,7 +59,7 @@
             if (rider.Motorcycle == null)
             {
                 var exMsg = String.Format(ExceptionMessages.RiderNotParticipate, rider.Name);
-                throw new ArgumentException(exMsg);
+                throw new ArgumentNullException(exMsg);
             }
 
             if (this.riders.Contains(rider))

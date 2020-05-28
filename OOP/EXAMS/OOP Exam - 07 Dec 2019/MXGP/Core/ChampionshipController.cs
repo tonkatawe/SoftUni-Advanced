@@ -39,7 +39,7 @@ namespace MXGP.Core
             if (this.riders.GetAll().Contains(rider))
             {
                 var exMsg = String.Format(ExceptionMessages.RaceExists, riderName);
-                throw new ArgumentNullException(exMsg);
+                throw new ArgumentException(exMsg);
             }
             else
             {
