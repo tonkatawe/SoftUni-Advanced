@@ -29,7 +29,7 @@ namespace SpaceStation.Models.Planets
             {
                 if (String.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidPlanetName);
+                    throw new ArgumentNullException(ExceptionMessages.InvalidPlanetName);
                 }
 
                 this.name = value;

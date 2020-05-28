@@ -27,7 +27,7 @@ namespace SpaceStation.Models.Astronauts
             {
                 if (String.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidAstronautName);
+                    throw new ArgumentNullException(ExceptionMessages.InvalidAstronautName);
 
                 }
 

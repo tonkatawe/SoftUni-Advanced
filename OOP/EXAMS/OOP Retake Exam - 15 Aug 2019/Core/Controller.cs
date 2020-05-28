@@ -104,7 +104,7 @@ namespace SpaceStation.Core
         public string Report()
         {
             var result = new StringBuilder();
-            result.AppendLine($"{this.exploredPlanet} planets were explored");
+            result.AppendLine($"{this.exploredPlanet} planets were explored!");
             result.AppendLine($"Astronauts info:");
             foreach (var astronaut in this.astronauts.Models)
             {
