@@ -1,0 +1,14 @@
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\Presents.exe
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\nunit.engine.netstandard.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\Mono.Cecil.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.deps.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\i\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\i\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\i\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\i\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.csproj.CopyComplete
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\i\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\i\Presents.Tests\Debug\netcoreapp3.0\Presents.Tests.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\b\Presents\Debug\netcoreapp3.0\Presents.exe
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\b\Presents\Debug\netcoreapp3.0\Presents.deps.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\b\Presents\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\b\Presents\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\b\Presents\Debug\netcoreapp3.0\Presents.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\i\Presents\Debug\netcoreapp3.0\Presents.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\i\Presents\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\i\Presents\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\i\Presents\Debug\netcoreapp3.0\Presents.csproj.CopyComplete
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\i\Presents\Debug\netcoreapp3.0\Presents.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Retake Exam - 19 Dec 2019\03.Unit testing\.vs\Presents\v16\lut\0\i\Presents\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache
