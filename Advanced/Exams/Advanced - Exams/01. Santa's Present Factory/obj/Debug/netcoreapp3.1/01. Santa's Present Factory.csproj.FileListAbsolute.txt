@@ -9,3 +9,5 @@ C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Santa's Present Fa
 C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Santa's Present Factory\obj\Debug\netcoreapp3.1\01. Santa's Present Factory.AssemblyInfo.cs
 C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Santa's Present Factory\obj\Debug\netcoreapp3.1\01. Santa's Present Factory.dll
 C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Santa's Present Factory\obj\Debug\netcoreapp3.1\01. Santa's Present Factory.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Santa's Present Factory\obj\Debug\netcoreapp3.1\01. Santa's Present Factory.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Santa's Present Factory\obj\Debug\netcoreapp3.1\01. Santa's Present Factory.genruntimeconfig.cache

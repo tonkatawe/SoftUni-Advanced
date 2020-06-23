@@ -1,0 +1,12 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Monopoly\bin\Debug\netcoreapp3.1\02. Monopoly.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Monopoly\bin\Debug\netcoreapp3.1\02. Monopoly.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Monopoly\bin\Debug\netcoreapp3.1\02. Monopoly.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Monopoly\bin\Debug\netcoreapp3.1\02. Monopoly.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Monopoly\bin\Debug\netcoreapp3.1\02. Monopoly.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Monopoly\bin\Debug\netcoreapp3.1\02. Monopoly.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Monopoly\obj\Debug\netcoreapp3.1\02. Monopoly.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Monopoly\obj\Debug\netcoreapp3.1\02. Monopoly.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Monopoly\obj\Debug\netcoreapp3.1\02. Monopoly.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Monopoly\obj\Debug\netcoreapp3.1\02. Monopoly.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Monopoly\obj\Debug\netcoreapp3.1\02. Monopoly.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Monopoly\obj\Debug\netcoreapp3.1\02. Monopoly.genruntimeconfig.cache

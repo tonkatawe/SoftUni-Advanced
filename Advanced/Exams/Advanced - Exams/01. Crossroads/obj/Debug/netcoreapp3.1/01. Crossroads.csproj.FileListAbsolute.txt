@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Crossroads\bin\Debug\netcoreapp3.1\01. Crossroads.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Crossroads\bin\Debug\netcoreapp3.1\01. Crossroads.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Crossroads\bin\Debug\netcoreapp3.1\01. Crossroads.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Crossroads\bin\Debug\netcoreapp3.1\01. Crossroads.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Crossroads\bin\Debug\netcoreapp3.1\01. Crossroads.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Crossroads\bin\Debug\netcoreapp3.1\01. Crossroads.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Crossroads\obj\Debug\netcoreapp3.1\01. Crossroads.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Crossroads\obj\Debug\netcoreapp3.1\01. Crossroads.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Crossroads\obj\Debug\netcoreapp3.1\01. Crossroads.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Crossroads\obj\Debug\netcoreapp3.1\01. Crossroads.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Crossroads\obj\Debug\netcoreapp3.1\01. Crossroads.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Crossroads\obj\Debug\netcoreapp3.1\01. Crossroads.genruntimeconfig.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Crossroads\obj\Debug\netcoreapp3.1\01. Crossroads.csprojAssemblyReference.cache

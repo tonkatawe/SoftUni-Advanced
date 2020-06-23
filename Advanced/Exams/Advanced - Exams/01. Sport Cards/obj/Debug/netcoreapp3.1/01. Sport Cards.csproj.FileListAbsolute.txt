@@ -10,3 +10,4 @@ C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\obj\De
 C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\obj\Debug\netcoreapp3.1\01. Sport Cards.dll
 C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\obj\Debug\netcoreapp3.1\01. Sport Cards.pdb
 C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\obj\Debug\netcoreapp3.1\01. Sport Cards.genruntimeconfig.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Sport Cards\obj\Debug\netcoreapp3.1\01. Sport Cards.csprojAssemblyReference.cache

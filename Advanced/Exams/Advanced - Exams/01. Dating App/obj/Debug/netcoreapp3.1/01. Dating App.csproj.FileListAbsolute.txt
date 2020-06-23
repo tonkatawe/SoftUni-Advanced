@@ -9,3 +9,5 @@ C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Dating App\obj\Deb
 C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Dating App\obj\Debug\netcoreapp3.1\01. Dating App.AssemblyInfo.cs
 C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Dating App\obj\Debug\netcoreapp3.1\01. Dating App.dll
 C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Dating App\obj\Debug\netcoreapp3.1\01. Dating App.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Dating App\obj\Debug\netcoreapp3.1\01. Dating App.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Dating App\obj\Debug\netcoreapp3.1\01. Dating App.genruntimeconfig.cache

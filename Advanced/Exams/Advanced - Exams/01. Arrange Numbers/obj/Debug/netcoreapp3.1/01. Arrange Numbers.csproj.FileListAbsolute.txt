@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Arrange Numbers\bin\Debug\netcoreapp3.1\01. Arrange Numbers.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Arrange Numbers\bin\Debug\netcoreapp3.1\01. Arrange Numbers.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Arrange Numbers\bin\Debug\netcoreapp3.1\01. Arrange Numbers.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Arrange Numbers\bin\Debug\netcoreapp3.1\01. Arrange Numbers.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Arrange Numbers\bin\Debug\netcoreapp3.1\01. Arrange Numbers.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Arrange Numbers\bin\Debug\netcoreapp3.1\01. Arrange Numbers.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Arrange Numbers\obj\Debug\netcoreapp3.1\01. Arrange Numbers.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Arrange Numbers\obj\Debug\netcoreapp3.1\01. Arrange Numbers.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Arrange Numbers\obj\Debug\netcoreapp3.1\01. Arrange Numbers.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Arrange Numbers\obj\Debug\netcoreapp3.1\01. Arrange Numbers.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Arrange Numbers\obj\Debug\netcoreapp3.1\01. Arrange Numbers.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Arrange Numbers\obj\Debug\netcoreapp3.1\01. Arrange Numbers.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\01. Arrange Numbers\obj\Debug\netcoreapp3.1\01. Arrange Numbers.genruntimeconfig.cache

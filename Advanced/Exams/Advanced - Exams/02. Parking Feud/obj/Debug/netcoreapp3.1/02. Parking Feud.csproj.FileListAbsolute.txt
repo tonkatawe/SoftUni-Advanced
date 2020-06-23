@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Parking Feud\bin\Debug\netcoreapp3.1\02. Parking Feud.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Parking Feud\bin\Debug\netcoreapp3.1\02. Parking Feud.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Parking Feud\bin\Debug\netcoreapp3.1\02. Parking Feud.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Parking Feud\bin\Debug\netcoreapp3.1\02. Parking Feud.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Parking Feud\bin\Debug\netcoreapp3.1\02. Parking Feud.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Parking Feud\bin\Debug\netcoreapp3.1\02. Parking Feud.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Parking Feud\obj\Debug\netcoreapp3.1\02. Parking Feud.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Parking Feud\obj\Debug\netcoreapp3.1\02. Parking Feud.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Parking Feud\obj\Debug\netcoreapp3.1\02. Parking Feud.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Parking Feud\obj\Debug\netcoreapp3.1\02. Parking Feud.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Parking Feud\obj\Debug\netcoreapp3.1\02. Parking Feud.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Parking Feud\obj\Debug\netcoreapp3.1\02. Parking Feud.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Parking Feud\obj\Debug\netcoreapp3.1\02. Parking Feud.genruntimeconfig.cache
