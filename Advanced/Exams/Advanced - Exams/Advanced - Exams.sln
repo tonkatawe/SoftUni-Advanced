@@ -43,17 +43,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Miner", "03. Miner\03. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Cups and Bottles", "04. Cups and Bottles\04. Cups and Bottles.csproj", "{02B1091D-7E61-40C3-97A4-C82572694BEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Arrange Numbers", "01. Arrange Numbers\01. Arrange Numbers.csproj", "{76D29CF0-144A-459B-B198-3FB4E87BC420}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Arrange Numbers", "01. Arrange Numbers\01. Arrange Numbers.csproj", "{76D29CF0-144A-459B-B198-3FB4E87BC420}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Monopoly", "02. Monopoly\02. Monopoly.csproj", "{DEA02F10-E236-4D46-9AB1-D85E697E09F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Monopoly", "02. Monopoly\02. Monopoly.csproj", "{DEA02F10-E236-4D46-9AB1-D85E697E09F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Crossroads", "01. Crossroads\01. Crossroads.csproj", "{5F0296CF-469D-46E2-990C-61E711EF818E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Crossroads", "01. Crossroads\01. Crossroads.csproj", "{5F0296CF-469D-46E2-990C-61E711EF818E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Parking Feud", "02. Parking Feud\02. Parking Feud.csproj", "{1B02E9D2-FFFA-4348-9F45-0ABE7E783356}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Parking Feud", "02. Parking Feud\02. Parking Feud.csproj", "{1B02E9D2-FFFA-4348-9F45-0ABE7E783356}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Movie Time", "04. Movie Time\04. Movie Time.csproj", "{C7DCBC38-155B-4639-A7E9-CD5A55FD9C38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Movie Time", "04. Movie Time\04. Movie Time.csproj", "{C7DCBC38-155B-4639-A7E9-CD5A55FD9C38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Key Revolver", "01. Key Revolver\01. Key Revolver.csproj", "{E86322DB-A80F-4E80-A4EB-97CCD4BCE1B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Key Revolver", "01. Key Revolver\01. Key Revolver.csproj", "{E86322DB-A80F-4E80-A4EB-97CCD4BCE1B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Dangerous Floor", "01. Dangerous Floor\01. Dangerous Floor.csproj", "{C55D2E5A-D2BD-4C67-9C06-EEB271EED0F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Crypto Master", "02. Crypto Master\02. Crypto Master.csproj", "{BB62AD18-998B-4271-9B93-B8BC7D556DD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Greedy Times", "03. Greedy Times\03. Greedy Times.csproj", "{8D46303F-80A8-4957-B3DE-91F47A614450}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -161,6 +167,18 @@ Global
 		{E86322DB-A80F-4E80-A4EB-97CCD4BCE1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E86322DB-A80F-4E80-A4EB-97CCD4BCE1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E86322DB-A80F-4E80-A4EB-97CCD4BCE1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55D2E5A-D2BD-4C67-9C06-EEB271EED0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55D2E5A-D2BD-4C67-9C06-EEB271EED0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55D2E5A-D2BD-4C67-9C06-EEB271EED0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55D2E5A-D2BD-4C67-9C06-EEB271EED0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB62AD18-998B-4271-9B93-B8BC7D556DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB62AD18-998B-4271-9B93-B8BC7D556DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB62AD18-998B-4271-9B93-B8BC7D556DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB62AD18-998B-4271-9B93-B8BC7D556DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D46303F-80A8-4957-B3DE-91F47A614450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D46303F-80A8-4957-B3DE-91F47A614450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D46303F-80A8-4957-B3DE-91F47A614450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D46303F-80A8-4957-B3DE-91F47A614450}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Crypto Master\bin\Debug\netcoreapp3.1\02. Crypto Master.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Crypto Master\bin\Debug\netcoreapp3.1\02. Crypto Master.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Crypto Master\bin\Debug\netcoreapp3.1\02. Crypto Master.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Crypto Master\bin\Debug\netcoreapp3.1\02. Crypto Master.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Crypto Master\bin\Debug\netcoreapp3.1\02. Crypto Master.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Crypto Master\bin\Debug\netcoreapp3.1\02. Crypto Master.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Crypto Master\obj\Debug\netcoreapp3.1\02. Crypto Master.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Crypto Master\obj\Debug\netcoreapp3.1\02. Crypto Master.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Crypto Master\obj\Debug\netcoreapp3.1\02. Crypto Master.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Crypto Master\obj\Debug\netcoreapp3.1\02. Crypto Master.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Crypto Master\obj\Debug\netcoreapp3.1\02. Crypto Master.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Crypto Master\obj\Debug\netcoreapp3.1\02. Crypto Master.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\02. Crypto Master\obj\Debug\netcoreapp3.1\02. Crypto Master.genruntimeconfig.cache

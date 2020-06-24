@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Greedy Times\bin\Debug\netcoreapp3.1\03. Greedy Times.exe
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Greedy Times\bin\Debug\netcoreapp3.1\03. Greedy Times.deps.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Greedy Times\bin\Debug\netcoreapp3.1\03. Greedy Times.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Greedy Times\bin\Debug\netcoreapp3.1\03. Greedy Times.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Greedy Times\bin\Debug\netcoreapp3.1\03. Greedy Times.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Greedy Times\bin\Debug\netcoreapp3.1\03. Greedy Times.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Greedy Times\obj\Debug\netcoreapp3.1\03. Greedy Times.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Greedy Times\obj\Debug\netcoreapp3.1\03. Greedy Times.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Greedy Times\obj\Debug\netcoreapp3.1\03. Greedy Times.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Greedy Times\obj\Debug\netcoreapp3.1\03. Greedy Times.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Greedy Times\obj\Debug\netcoreapp3.1\03. Greedy Times.dll
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Greedy Times\obj\Debug\netcoreapp3.1\03. Greedy Times.pdb
+C:\GitHubRepo\C# Advanced\Advanced\Exams\Advanced - Exams\03. Greedy Times\obj\Debug\netcoreapp3.1\03. Greedy Times.genruntimeconfig.cache
