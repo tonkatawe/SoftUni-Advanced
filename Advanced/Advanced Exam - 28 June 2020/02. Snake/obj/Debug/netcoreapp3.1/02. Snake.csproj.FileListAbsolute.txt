@@ -1,0 +1,13 @@
+C:\Users\tonkatawe\source\repos\Advanced Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.exe
+C:\Users\tonkatawe\source\repos\Advanced Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.deps.json
+C:\Users\tonkatawe\source\repos\Advanced Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.runtimeconfig.json
+C:\Users\tonkatawe\source\repos\Advanced Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.runtimeconfig.dev.json
+C:\Users\tonkatawe\source\repos\Advanced Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.dll
+C:\Users\tonkatawe\source\repos\Advanced Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.pdb
+C:\Users\tonkatawe\source\repos\Advanced Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.csprojAssemblyReference.cache
+C:\Users\tonkatawe\source\repos\Advanced Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.AssemblyInfoInputs.cache
+C:\Users\tonkatawe\source\repos\Advanced Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.AssemblyInfo.cs
+C:\Users\tonkatawe\source\repos\Advanced Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.csproj.CoreCompileInputs.cache
+C:\Users\tonkatawe\source\repos\Advanced Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.dll
+C:\Users\tonkatawe\source\repos\Advanced Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.pdb
+C:\Users\tonkatawe\source\repos\Advanced Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.genruntimeconfig.cache
