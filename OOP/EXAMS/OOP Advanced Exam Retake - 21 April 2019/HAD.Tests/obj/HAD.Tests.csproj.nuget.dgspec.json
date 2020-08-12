@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Advanced Exam Retake - 21 April 2019\\HAD.Tests\\HAD.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Advanced Exam Retake - 21 April 2019\\HAD.Tests\\HAD.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Advanced Exam Retake - 21 April 2019\\HAD.Tests\\HAD.Tests.csproj",
+        "projectName": "HAD.Tests",
+        "projectPath": "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Advanced Exam Retake - 21 April 2019\\HAD.Tests\\HAD.Tests.csproj",
+        "packagesPath": "C:\\Users\\tonkatawe\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Advanced Exam Retake - 21 April 2019\\HAD.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tonkatawe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Advanced Exam Retake - 21 April 2019\\HAD\\HAD.csproj": {
+                "projectPath": "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Advanced Exam Retake - 21 April 2019\\HAD\\HAD.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.11.2, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Advanced Exam Retake - 21 April 2019\\HAD\\HAD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Advanced Exam Retake - 21 April 2019\\HAD\\HAD.csproj",
+        "projectName": "HAD",
+        "projectPath": "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Advanced Exam Retake - 21 April 2019\\HAD\\HAD.csproj",
+        "packagesPath": "C:\\Users\\tonkatawe\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHubRepo\\C# Advanced\\OOP\\EXAMS\\OOP Advanced Exam Retake - 21 April 2019\\HAD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tonkatawe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

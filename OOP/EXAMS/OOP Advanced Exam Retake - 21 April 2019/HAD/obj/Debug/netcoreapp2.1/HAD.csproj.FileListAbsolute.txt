@@ -1,0 +1,12 @@
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam Retake - 21 April 2019\HAD\bin\Debug\netcoreapp2.1\HAD.deps.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam Retake - 21 April 2019\HAD\bin\Debug\netcoreapp2.1\HAD.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam Retake - 21 April 2019\HAD\bin\Debug\netcoreapp2.1\HAD.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam Retake - 21 April 2019\HAD\bin\Debug\netcoreapp2.1\HAD.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam Retake - 21 April 2019\HAD\bin\Debug\netcoreapp2.1\HAD.pdb
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam Retake - 21 April 2019\HAD\obj\Debug\netcoreapp2.1\HAD.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam Retake - 21 April 2019\HAD\obj\Debug\netcoreapp2.1\HAD.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam Retake - 21 April 2019\HAD\obj\Debug\netcoreapp2.1\HAD.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam Retake - 21 April 2019\HAD\obj\Debug\netcoreapp2.1\HAD.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam Retake - 21 April 2019\HAD\obj\Debug\netcoreapp2.1\HAD.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam Retake - 21 April 2019\HAD\obj\Debug\netcoreapp2.1\HAD.pdb
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam Retake - 21 April 2019\HAD\obj\Debug\netcoreapp2.1\HAD.genruntimeconfig.cache

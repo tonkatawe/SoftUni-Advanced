@@ -1,0 +1,76 @@
+Created 1 Reactor - Cryo
+Created 2 Reactor - Cryo
+Added CryogenRod - 3 to Reactor - 1
+Added CryogenRod - 4 to Reactor - 1
+Added CryogenRod - 5 to Reactor - 1
+Added CryogenRod - 6 to Reactor - 1
+Added CryogenRod - 7 to Reactor - 2
+Created 1 Reactor - Cryo
+Created 2 Reactor - Cryo
+Added CryogenRod - 3 to Reactor - 1
+Added CryogenRod - 4 to Reactor - 1
+Added CryogenRod - 5 to Reactor - 1
+Added CryogenRod - 6 to Reactor - 1
+Added CryogenRod - 7 to Reactor - 2
+Created 1 Reactor - Cryo
+Created 2 Reactor - Cryo
+Added CryogenRod - 3 to Reactor - 1
+Added CryogenRod - 4 to Reactor - 1
+Added CryogenRod - 5 to Reactor - 1
+Added CryogenRod - 6 to Reactor - 1
+Added CryogenRod - 7 to Reactor - 2
+Added HeatProcessor - 8 to Reactor - 1
+CryoReactor - 1Energy Output: 4000Heat Absorbing: 10000Modules: 5
+Cryo Reactors: 2
+Heat Reactors: 0
+Energy Modules: 5
+Absorbing Modules: 1
+Total Energy Output: 4000
+Total Heat Absorbing: 10000
+
+Created Cryo Reactor - 1
+Created Cryo Reactor - 2
+Added CryogenRod - 3 to Reactor - 1
+Added CryogenRod - 4 to Reactor - 1
+Added CryogenRod - 5 to Reactor - 1
+Added CryogenRod - 6 to Reactor - 1
+Added CryogenRod - 7 to Reactor - 2
+Added HeatProcessor - 8 to Reactor - 1
+CryoReactor - 1
+Energy Output: 4000
+Heat Absorbing: 10000
+Modules: 5
+Cryo Reactors: 2
+Heat Reactors: 0
+Energy Modules: 5
+Absorbing Modules: 1
+Total Energy Output: 4000
+Total Heat Absorbing: 10000
+Created Heat Reactor - 1
+Added CryogenRod - 2 to Reactor - 1
+Created Cryo Reactor - 3
+Added CryogenRod - 4 to Reactor - 1
+Added CooldownSystem - 5 to Reactor - 3
+Added CryogenRod - 6 to Reactor - 3
+Added CryogenRod - 7 to Reactor - 3
+Added CryogenRod - 8 to Reactor - 3
+Added CryogenRod - 9 to Reactor - 3
+HeatReactor - 1
+Energy Output: 249
+Heat Absorbing: 250
+Modules: 2
+CryoReactor - 3
+Energy Output: 10000
+Heat Absorbing: 10000
+Modules: 5
+Added HeatProcessor - 10 to Reactor - 3
+CryoReactor - 3
+Energy Output: 10000
+Heat Absorbing: 20000
+Modules: 5
+Cryo Reactors: 1
+Heat Reactors: 1
+Energy Modules: 6
+Absorbing Modules: 2
+Total Energy Output: 10249
+Total Heat Absorbing: 20250
