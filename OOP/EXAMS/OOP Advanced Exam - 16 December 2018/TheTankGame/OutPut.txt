@@ -1,0 +1,115 @@
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Created Vanguard Vehicle - SA-203
+Created Revenger Vehicle - AKU
+Added Arsenal - Cannon-KA2 to Vehicle - SA-203
+Added Shell - Shields-PI1 to Vehicle - AKU
+Vanguard - SA-203
+Total Weight: 400.000
+Total Price: 800.000
+Attack: 1450
+Defense: 450
+HitPoints: 2000
+Parts: Cannon-KA2
+Revenger - AKU
+Total Weight: 1200.000
+Total Price: 2000.000
+Attack: 1000
+Defense: 1750
+HitPoints: 1750
+Parts: Shields-PI1
+Remaining Vehicles: SA-203, AKU
+Defeated Vehicles: None
+Currently Used Parts: 2

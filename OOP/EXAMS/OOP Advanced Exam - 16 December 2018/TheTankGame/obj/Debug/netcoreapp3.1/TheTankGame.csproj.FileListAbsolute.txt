@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam - 16 December 2018\TheTankGame\bin\Debug\netcoreapp3.1\TheTankGame.exe
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam - 16 December 2018\TheTankGame\bin\Debug\netcoreapp3.1\TheTankGame.deps.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam - 16 December 2018\TheTankGame\bin\Debug\netcoreapp3.1\TheTankGame.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam - 16 December 2018\TheTankGame\bin\Debug\netcoreapp3.1\TheTankGame.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam - 16 December 2018\TheTankGame\bin\Debug\netcoreapp3.1\TheTankGame.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam - 16 December 2018\TheTankGame\bin\Debug\netcoreapp3.1\TheTankGame.pdb
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam - 16 December 2018\TheTankGame\obj\Debug\netcoreapp3.1\TheTankGame.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam - 16 December 2018\TheTankGame\obj\Debug\netcoreapp3.1\TheTankGame.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam - 16 December 2018\TheTankGame\obj\Debug\netcoreapp3.1\TheTankGame.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam - 16 December 2018\TheTankGame\obj\Debug\netcoreapp3.1\TheTankGame.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam - 16 December 2018\TheTankGame\obj\Debug\netcoreapp3.1\TheTankGame.dll
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam - 16 December 2018\TheTankGame\obj\Debug\netcoreapp3.1\TheTankGame.pdb
+C:\GitHubRepo\C# Advanced\OOP\EXAMS\OOP Advanced Exam - 16 December 2018\TheTankGame\obj\Debug\netcoreapp3.1\TheTankGame.genruntimeconfig.cache
